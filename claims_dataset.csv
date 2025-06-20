@@ -1,0 +1,61 @@
+product_name,brand,country,claim_text,claim_type,x_category,touchpoint,relevancy,product_category,product_subcategory
+Cream Z,Brand A,Germany,More hydration than leading brand,imagery,formulation,POS,0.74,Skincare,Cream
+Essence Y,Brand C,Germany,Fragrance-free and gentle,comparative/superiority,clinical/instrumental,PACK,0.44,Skincare,Essence
+Cream Y,Brand C,Germany,Clinically proven results,statement,sensory,TVC,0.45,Skincare,Cream
+Essence X,Brand A,Brazil,Fragrance-free and gentle,statement,packaging,POS,0.91,Skincare,Essence
+Serum Z,Brand A,China,Smooth skin after 1 week,imagery,local relevance/safety/sustainability,TVC,0.88,Skincare,Serum
+Cream X,Brand D,Brazil,No parabens,imagery,local relevance/safety/sustainability,TVC,0.51,Skincare,Cream
+Toner X,Brand D,France,Clinically proven results,imagery,shares/sales/R&R/endorsement,POS,0.42,Skincare,Toner
+Toner Z,Brand C,USA,9 out of 10 women agree,statement,formulation,POS,0.63,Skincare,Toner
+Cream X,Brand A,Brazil,Smooth skin after 1 week,statement,ingredient,PACK,0.52,Skincare,Cream
+Lotion Z,Brand A,USA,Visible glow immediately,imagery,formulation,PACK,0.77,Skincare,Lotion
+Essence Y,Brand C,Brazil,Clinically proven results,imagery,clinical/instrumental,POS,0.38,Skincare,Essence
+Essence X,Brand A,Brazil,Recommended by dermatologists,imagery,sensory,PACK,0.79,Skincare,Essence
+Essence X,Brand A,China,9 out of 10 women agree,statement,formulation,Digital,0.8,Skincare,Essence
+Serum X,Brand D,Germany,Fragrance-free and gentle,imagery,sensory,POS,0.62,Skincare,Serum
+Toner Y,Brand A,France,Trusted by professionals,statement,consumer perception,POS,0.73,Skincare,Toner
+Toner X,Brand C,China,9 out of 10 women agree,statement,clinical/instrumental,Digital,0.82,Skincare,Toner
+Essence Y,Brand C,Brazil,Smooth skin after 1 week,comparative/superiority,shares/sales/R&R/endorsement,POS,0.33,Skincare,Essence
+Essence X,Brand A,France,Fragrance-free and gentle,imagery,shares/sales/R&R/endorsement,TVC,0.71,Skincare,Essence
+Toner Z,Brand D,France,Smooth skin after 1 week,statement,science,POS,0.35,Skincare,Toner
+Cream Z,Brand A,Brazil,Smooth skin after 1 week,statement,formulation,PACK,0.42,Skincare,Cream
+Cream Y,Brand A,Germany,9 out of 10 women agree,imagery,shares/sales/R&R/endorsement,POS,0.7,Skincare,Cream
+Toner X,Brand B,USA,9 out of 10 women agree,statement,science,PACK,0.65,Skincare,Toner
+Lotion Y,Brand B,France,9 out of 10 women agree,imagery,shares/sales/R&R/endorsement,POS,0.69,Skincare,Lotion
+Lotion Z,Brand C,Germany,Visible glow immediately,imagery,shares/sales/R&R/endorsement,POS,0.35,Skincare,Lotion
+Essence X,Brand C,Brazil,Smooth skin after 1 week,imagery,local relevance/safety/sustainability,TVC,0.53,Skincare,Essence
+Cream X,Brand C,USA,Trusted by professionals,comparative/superiority,packaging,Digital,0.85,Skincare,Cream
+Cream Z,Brand C,China,Eco-friendly packaging,comparative/superiority,local relevance/safety/sustainability,PACK,0.91,Skincare,Cream
+Serum Z,Brand A,USA,Trusted by professionals,imagery,formulation,POS,0.55,Skincare,Serum
+Serum Y,Brand C,Brazil,Fragrance-free and gentle,imagery,shares/sales/R&R/endorsement,Digital,0.57,Skincare,Serum
+Lotion Z,Brand B,Brazil,Fragrance-free and gentle,imagery,clinical/instrumental,Digital,0.46,Skincare,Lotion
+Essence Y,Brand A,Germany,Visible glow immediately,imagery,ingredient,TVC,0.87,Skincare,Essence
+Toner Y,Brand B,USA,Clinically proven results,statement,packaging,Digital,0.94,Skincare,Toner
+Lotion Y,Brand B,France,More hydration than leading brand,statement,packaging,POS,0.35,Skincare,Lotion
+Serum Z,Brand C,Germany,Eco-friendly packaging,statement,emotion,TVC,0.6,Skincare,Serum
+Serum Y,Brand C,France,Recommended by dermatologists,imagery,sensory,Digital,0.32,Skincare,Serum
+Serum X,Brand B,USA,More hydration than leading brand,statement,formulation,PACK,0.39,Skincare,Serum
+Toner X,Brand C,Germany,Fragrance-free and gentle,statement,clinical/instrumental,Digital,0.46,Skincare,Toner
+Essence Z,Brand C,France,Trusted by professionals,imagery,sensory,Digital,0.8,Skincare,Essence
+Cream Z,Brand B,China,Fragrance-free and gentle,statement,sensory,POS,0.68,Skincare,Cream
+Toner X,Brand A,France,Fragrance-free and gentle,comparative/superiority,ingredient,Digital,0.85,Skincare,Toner
+Cream Z,Brand B,Germany,Visible glow immediately,imagery,formulation,TVC,0.84,Skincare,Cream
+Cream Y,Brand D,Germany,9 out of 10 women agree,comparative/superiority,emotion,PACK,0.94,Skincare,Cream
+Essence Z,Brand B,Germany,Trusted by professionals,statement,local relevance/safety/sustainability,POS,0.85,Skincare,Essence
+Serum Y,Brand B,USA,No parabens,imagery,science,TVC,0.79,Skincare,Serum
+Serum Y,Brand B,China,Fragrance-free and gentle,comparative/superiority,ingredient,TVC,0.92,Skincare,Serum
+Serum Z,Brand A,Germany,No parabens,statement,clinical/instrumental,PACK,0.66,Skincare,Serum
+Essence Z,Brand B,China,Smooth skin after 1 week,statement,science,Digital,0.9,Skincare,Essence
+Lotion X,Brand D,Brazil,Recommended by dermatologists,comparative/superiority,local relevance/safety/sustainability,POS,0.95,Skincare,Lotion
+Serum X,Brand C,Germany,No parabens,imagery,shares/sales/R&R/endorsement,TVC,0.95,Skincare,Serum
+Serum X,Brand C,USA,Eco-friendly packaging,statement,clinical/instrumental,POS,0.93,Skincare,Serum
+Serum Z,Brand D,France,Visible glow immediately,statement,consumer perception,POS,0.49,Skincare,Serum
+Essence X,Brand A,Germany,Fragrance-free and gentle,imagery,local relevance/safety/sustainability,TVC,0.67,Skincare,Essence
+Cream X,Brand D,Brazil,No parabens,imagery,ingredient,Digital,0.59,Skincare,Cream
+Lotion Z,Brand A,Brazil,Trusted by professionals,imagery,packaging,TVC,0.6,Skincare,Lotion
+Essence Y,Brand D,Germany,Fragrance-free and gentle,imagery,ingredient,PACK,0.58,Skincare,Essence
+Essence Z,Brand B,Germany,More hydration than leading brand,comparative/superiority,local relevance/safety/sustainability,Digital,0.78,Skincare,Essence
+Toner Y,Brand C,USA,Eco-friendly packaging,imagery,science,TVC,0.49,Skincare,Toner
+Lotion X,Brand C,USA,Visible glow immediately,imagery,shares/sales/R&R/endorsement,Digital,0.46,Skincare,Lotion
+Cream Z,Brand A,France,Smooth skin after 1 week,imagery,formulation,Digital,0.4,Skincare,Cream
+Lotion Y,Brand A,Germany,More hydration than leading brand,imagery,shares/sales/R&R/endorsement,TVC,0.41,Skincare,Lotion
