@@ -63,19 +63,20 @@ else:
     "shares/sales/R&R/endorsement"
 ]
 
-    fig = px.scatter(
+    fig = px.strip(
         filtered_df,
         x="x_category",
         y="claim_type",
         category_orders={"x_category": x_category_order},
-        size="relevancy",
         color="product_name",
         hover_data=["claim_text", "touchpoint"],
-        opacity=0.7,
+        stripmode="overlay",
+        labels={"x_category": "", "claim_type": ""},
         height=700
     )
 
-    st.plotly_chart(fig, use_container_width=True)
+    fig.update_traces(jitter=0.6, marker=dict(size=12, opacity=0.7))
+st.plotly_chart(fig, use_container_width=True)
 
     # Safe image export block
     try:
