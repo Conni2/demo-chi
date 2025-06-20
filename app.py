@@ -4,29 +4,26 @@ import plotly.express as px
 from PIL import Image
 import os
 
-# Load your dataset (replace with your own CSV or use mock dataframe)
-df = pd.read_csv("claims_dataset.csv")  # Replace with your actual file
+# Load dataset
+df = pd.read_csv("claims_dataset.csv")
 
-st.set_page_config(page_title="Cosmetic Claim Map", layout="wide")
+st.set_page_config(page_title="Cosmetic Claim Mapping", layout="wide")
 st.title("🧴 Cosmetic Claim Mapping Dashboard")
 
-# Sidebar Filters
-st.sidebar.header("Filter")
-selected_country = st.sidebar.selectbox("Country", sorted(df["country"].unique()))
-filtered_df = df[df["country"] == selected_country]
-
-selected_products = st.sidebar.multiselect("Select Products", options=sorted(filtered_df["product_name"].unique()), default=sorted(filtered_df["product_name"].unique()))
-filtered_df = filtered_df[filtered_df["product_name"].isin(selected_products)]
-
-selected_touchpoints = st.sidebar.multiselect("Touchpoints", options=sorted(df["touchpoint"].unique()), default=sorted(df["touchpoint"].unique()))
-filtered_df = filtered_df[filtered_df["touchpoint"].isin(selected_touchpoints)]
-
-menu = st.sidebar.radio("Select View", ["Product Mapping", "Competitor Claim Map"])
+# Define menu
+menu = st.radio("Select View", ["Product Mapping", "Competitor Claim Map"])
 
 if menu == "Product Mapping":
     st.header("📌 Product Claim Mapping")
-    selected_brand = st.selectbox("Select Brand", sorted(filtered_df["brand"].unique()))
-    selected_product = st.selectbox("Select Product", sorted(filtered_df["product_name"].unique()))
+
+    # Filters (top of the page)
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        selected_country = st.selectbox("Select Country", sorted(df["country"].unique()))
+    with col2:
+        selected_brand = st.selectbox("Select Brand", sorted(df[df["country"] == selected_country]["brand"].unique()))
+    with col3:
+        selected_product = st.selectbox("Select Product", sorted(df[(df["country"] == selected_country) & (df["brand"] == selected_brand)]["product_name"].unique()))
 
     # Compose image path
     image_filename = f"images/{selected_country}_{selected_brand}_{selected_product}.png"
@@ -38,17 +35,38 @@ if menu == "Product Mapping":
 
 else:
     st.header("📊 Competitor Claim Map")
-    st.subheader(f"Country: {selected_country}")
+
+    # Filters (top of the page)
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        selected_country = st.selectbox("Select Country", sorted(df["country"].unique()))
+    with col2:
+        selected_products = st.multiselect("Select Products", sorted(df[df["country"] == selected_country]["product_name"].unique()))
+    with col3:
+        selected_touchpoints = st.multiselect("Select Touchpoints", sorted(df["touchpoint"].unique()), default=sorted(df["touchpoint"].unique()))
+
+    # Filter dataframe
+    filtered_df = df[(df["country"] == selected_country) & 
+                     (df["product_name"].isin(selected_products)) & 
+                     (df["touchpoint"].isin(selected_touchpoints))]
+
+    # Define custom x-axis category order matching the image reference
+    x_category_order = [
+        "science", "formulation", "ingredient", "packaging",
+        "emotion", "sensory", "consumer perception", "clinical/instrumental",
+        "local relevance/safety/sustainability", "shares/sales/R&R/endorsement"
+    ]
 
     fig = px.scatter(
         filtered_df,
         x="x_category",
         y="claim_type",
+        category_orders={"x_category": x_category_order},
         size="relevancy",
         color="product_name",
         hover_data=["claim_text", "touchpoint"],
         opacity=0.7,
-        height=700,
+        height=700
     )
 
     st.plotly_chart(fig, use_container_width=True)
