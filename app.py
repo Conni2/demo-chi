@@ -76,7 +76,7 @@ else:
     )
 
     fig.update_traces(jitter=0.6, marker=dict(size=12, opacity=0.7))
-st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, use_container_width=True)
 
     # Safe image export block
     try:
