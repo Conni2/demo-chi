@@ -54,10 +54,14 @@ else:
 
     # Define custom x-axis category order matching the image reference
     x_category_order = [
-        "science", "formulation", "ingredient", "packaging",
-        "emotion", "sensory", "consumer perception", "clinical/instrumental",
-        "local relevance/safety/sustainability", "shares/sales/R&R/endorsement"
-    ]
+    "science/formulation/ingredient/packaging",
+    "emotion",
+    "sensory",
+    "consumer perception",
+    "clinical/instrumental",
+    "local relevance/safety/sustainability",
+    "shares/sales/R&R/endorsement"
+]
 
     fig = px.scatter(
         filtered_df,
@@ -83,4 +87,6 @@ else:
             mime="image/png"
         )
     except Exception:
-        st.info("❌ Image download is currently not supported in this environment.\n\n💡 If you're running this locally, it will work. Try installing Kaleido with 'pip install -U kaleido'.")
+        st.info("❌ Image download is currently not supported in this environment.
+
+💡 If you're running this locally, it will work. Try installing Kaleido with 'pip install -U kaleido'.")
