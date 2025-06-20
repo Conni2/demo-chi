@@ -1,61 +1,1375 @@
 product_name,brand,country,claim_text,claim_type,x_category,touchpoint,relevancy,product_category,product_subcategory
-Cream Z,Brand A,Germany,More hydration than leading brand,imagery,formulation,POS,0.74,Skincare,Cream
-Essence Y,Brand C,Germany,Fragrance-free and gentle,comparative/superiority,clinical/instrumental,PACK,0.44,Skincare,Essence
-Cream Y,Brand C,Germany,Clinically proven results,statement,sensory,TVC,0.45,Skincare,Cream
-Essence X,Brand A,Brazil,Fragrance-free and gentle,statement,packaging,POS,0.91,Skincare,Essence
-Serum Z,Brand A,China,Smooth skin after 1 week,imagery,local relevance/safety/sustainability,TVC,0.88,Skincare,Serum
-Cream X,Brand D,Brazil,No parabens,imagery,local relevance/safety/sustainability,TVC,0.51,Skincare,Cream
-Toner X,Brand D,France,Clinically proven results,imagery,shares/sales/R&R/endorsement,POS,0.42,Skincare,Toner
-Toner Z,Brand C,USA,9 out of 10 women agree,statement,formulation,POS,0.63,Skincare,Toner
-Cream X,Brand A,Brazil,Smooth skin after 1 week,statement,ingredient,PACK,0.52,Skincare,Cream
-Lotion Z,Brand A,USA,Visible glow immediately,imagery,formulation,PACK,0.77,Skincare,Lotion
-Essence Y,Brand C,Brazil,Clinically proven results,imagery,clinical/instrumental,POS,0.38,Skincare,Essence
-Essence X,Brand A,Brazil,Recommended by dermatologists,imagery,sensory,PACK,0.79,Skincare,Essence
-Essence X,Brand A,China,9 out of 10 women agree,statement,formulation,Digital,0.8,Skincare,Essence
-Serum X,Brand D,Germany,Fragrance-free and gentle,imagery,sensory,POS,0.62,Skincare,Serum
-Toner Y,Brand A,France,Trusted by professionals,statement,consumer perception,POS,0.73,Skincare,Toner
-Toner X,Brand C,China,9 out of 10 women agree,statement,clinical/instrumental,Digital,0.82,Skincare,Toner
-Essence Y,Brand C,Brazil,Smooth skin after 1 week,comparative/superiority,shares/sales/R&R/endorsement,POS,0.33,Skincare,Essence
-Essence X,Brand A,France,Fragrance-free and gentle,imagery,shares/sales/R&R/endorsement,TVC,0.71,Skincare,Essence
-Toner Z,Brand D,France,Smooth skin after 1 week,statement,science,POS,0.35,Skincare,Toner
-Cream Z,Brand A,Brazil,Smooth skin after 1 week,statement,formulation,PACK,0.42,Skincare,Cream
-Cream Y,Brand A,Germany,9 out of 10 women agree,imagery,shares/sales/R&R/endorsement,POS,0.7,Skincare,Cream
-Toner X,Brand B,USA,9 out of 10 women agree,statement,science,PACK,0.65,Skincare,Toner
-Lotion Y,Brand B,France,9 out of 10 women agree,imagery,shares/sales/R&R/endorsement,POS,0.69,Skincare,Lotion
-Lotion Z,Brand C,Germany,Visible glow immediately,imagery,shares/sales/R&R/endorsement,POS,0.35,Skincare,Lotion
-Essence X,Brand C,Brazil,Smooth skin after 1 week,imagery,local relevance/safety/sustainability,TVC,0.53,Skincare,Essence
-Cream X,Brand C,USA,Trusted by professionals,comparative/superiority,packaging,Digital,0.85,Skincare,Cream
-Cream Z,Brand C,China,Eco-friendly packaging,comparative/superiority,local relevance/safety/sustainability,PACK,0.91,Skincare,Cream
-Serum Z,Brand A,USA,Trusted by professionals,imagery,formulation,POS,0.55,Skincare,Serum
-Serum Y,Brand C,Brazil,Fragrance-free and gentle,imagery,shares/sales/R&R/endorsement,Digital,0.57,Skincare,Serum
-Lotion Z,Brand B,Brazil,Fragrance-free and gentle,imagery,clinical/instrumental,Digital,0.46,Skincare,Lotion
-Essence Y,Brand A,Germany,Visible glow immediately,imagery,ingredient,TVC,0.87,Skincare,Essence
-Toner Y,Brand B,USA,Clinically proven results,statement,packaging,Digital,0.94,Skincare,Toner
-Lotion Y,Brand B,France,More hydration than leading brand,statement,packaging,POS,0.35,Skincare,Lotion
-Serum Z,Brand C,Germany,Eco-friendly packaging,statement,emotion,TVC,0.6,Skincare,Serum
-Serum Y,Brand C,France,Recommended by dermatologists,imagery,sensory,Digital,0.32,Skincare,Serum
-Serum X,Brand B,USA,More hydration than leading brand,statement,formulation,PACK,0.39,Skincare,Serum
-Toner X,Brand C,Germany,Fragrance-free and gentle,statement,clinical/instrumental,Digital,0.46,Skincare,Toner
-Essence Z,Brand C,France,Trusted by professionals,imagery,sensory,Digital,0.8,Skincare,Essence
-Cream Z,Brand B,China,Fragrance-free and gentle,statement,sensory,POS,0.68,Skincare,Cream
-Toner X,Brand A,France,Fragrance-free and gentle,comparative/superiority,ingredient,Digital,0.85,Skincare,Toner
-Cream Z,Brand B,Germany,Visible glow immediately,imagery,formulation,TVC,0.84,Skincare,Cream
-Cream Y,Brand D,Germany,9 out of 10 women agree,comparative/superiority,emotion,PACK,0.94,Skincare,Cream
-Essence Z,Brand B,Germany,Trusted by professionals,statement,local relevance/safety/sustainability,POS,0.85,Skincare,Essence
-Serum Y,Brand B,USA,No parabens,imagery,science,TVC,0.79,Skincare,Serum
-Serum Y,Brand B,China,Fragrance-free and gentle,comparative/superiority,ingredient,TVC,0.92,Skincare,Serum
-Serum Z,Brand A,Germany,No parabens,statement,clinical/instrumental,PACK,0.66,Skincare,Serum
-Essence Z,Brand B,China,Smooth skin after 1 week,statement,science,Digital,0.9,Skincare,Essence
-Lotion X,Brand D,Brazil,Recommended by dermatologists,comparative/superiority,local relevance/safety/sustainability,POS,0.95,Skincare,Lotion
-Serum X,Brand C,Germany,No parabens,imagery,shares/sales/R&R/endorsement,TVC,0.95,Skincare,Serum
-Serum X,Brand C,USA,Eco-friendly packaging,statement,clinical/instrumental,POS,0.93,Skincare,Serum
-Serum Z,Brand D,France,Visible glow immediately,statement,consumer perception,POS,0.49,Skincare,Serum
-Essence X,Brand A,Germany,Fragrance-free and gentle,imagery,local relevance/safety/sustainability,TVC,0.67,Skincare,Essence
-Cream X,Brand D,Brazil,No parabens,imagery,ingredient,Digital,0.59,Skincare,Cream
-Lotion Z,Brand A,Brazil,Trusted by professionals,imagery,packaging,TVC,0.6,Skincare,Lotion
-Essence Y,Brand D,Germany,Fragrance-free and gentle,imagery,ingredient,PACK,0.58,Skincare,Essence
-Essence Z,Brand B,Germany,More hydration than leading brand,comparative/superiority,local relevance/safety/sustainability,Digital,0.78,Skincare,Essence
-Toner Y,Brand C,USA,Eco-friendly packaging,imagery,science,TVC,0.49,Skincare,Toner
-Lotion X,Brand C,USA,Visible glow immediately,imagery,shares/sales/R&R/endorsement,Digital,0.46,Skincare,Lotion
-Cream Z,Brand A,France,Smooth skin after 1 week,imagery,formulation,Digital,0.4,Skincare,Cream
-Lotion Y,Brand A,Germany,More hydration than leading brand,imagery,shares/sales/R&R/endorsement,TVC,0.41,Skincare,Lotion
+Cream A,Brand D,USA,98% natural ingredients,statement,ingredient,POS,0.72,Skincare,Cream
+Cream A,Brand D,USA,Trusted by professionals,imagery,clinical/instrumental,POS,0.37,Skincare,Cream
+Cream A,Brand D,USA,No parabens,comparative/superiority,local relevance/safety/sustainability,Digital,0.41,Skincare,Cream
+Cream A,Brand D,USA,Innovative delivery system,imagery,local relevance/safety/sustainability,POS,0.64,Skincare,Cream
+Cream A,Brand D,USA,Fast-absorbing texture,imagery,ingredient,PACK,0.31,Skincare,Cream
+Cream A,Brand D,USA,Innovative delivery system,statement,sensory,Digital,0.59,Skincare,Cream
+Cream A,Brand D,USA,Visible glow immediately,statement,ingredient,TVC,0.43,Skincare,Cream
+Cream A,Brand D,USA,Non-comedogenic,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.87,Skincare,Cream
+Cream A,Brand D,USA,Visible results in 7 days,imagery,clinical/instrumental,POS,0.82,Skincare,Cream
+Cream A,Brand D,USA,Deep hydration effect,statement,formulation,POS,0.46,Skincare,Cream
+Cream A,Brand D,USA,Proven with clinical trial,imagery,local relevance/safety/sustainability,PACK,0.97,Skincare,Cream
+Cream A,Brand D,USA,Reduces pore appearance,comparative/superiority,emotion,POS,0.43,Skincare,Cream
+Cream A,Brand D,USA,Trusted by professionals,imagery,formulation,TVC,0.95,Skincare,Cream
+Cream A,Brand D,USA,Innovative delivery system,imagery,science,POS,0.82,Skincare,Cream
+Cream A,Brand D,USA,Smooth skin after 1 week,statement,packaging,Digital,0.52,Skincare,Cream
+Cream A,Brand D,USA,Pro formula,statement,sensory,PACK,0.4,Skincare,Cream
+Cream A,Brand D,USA,Allergy tested,imagery,local relevance/safety/sustainability,PACK,0.61,Skincare,Cream
+Cream A,Brand D,USA,Clinically proven results,statement,sensory,Digital,0.75,Skincare,Cream
+Cream A,Brand D,USA,Trusted by professionals,imagery,local relevance/safety/sustainability,TVC,0.5,Skincare,Cream
+Cream A,Brand D,USA,Visible glow immediately,comparative/superiority,local relevance/safety/sustainability,TVC,0.6,Skincare,Cream
+Cream A,Brand D,USA,Allergy tested,statement,consumer perception,POS,0.51,Skincare,Cream
+Cream A,Brand D,USA,Reduces fine lines,statement,shares/sales/R&R/endorsement,Digital,0.71,Skincare,Cream
+Cream A,Brand D,USA,98% natural ingredients,comparative/superiority,clinical/instrumental,TVC,0.38,Skincare,Cream
+Cream A,Brand D,USA,Proven with clinical trial,statement,packaging,PACK,0.5,Skincare,Cream
+Cream A,Brand D,USA,No parabens,statement,local relevance/safety/sustainability,POS,0.74,Skincare,Cream
+Cream A,Brand D,USA,Clinically proven results,comparative/superiority,local relevance/safety/sustainability,POS,0.43,Skincare,Cream
+Cream A,Brand D,USA,Glowing skin all day,statement,sensory,Digital,0.42,Skincare,Cream
+Cream A,Brand D,USA,Fast-absorbing texture,comparative/superiority,sensory,Digital,0.62,Skincare,Cream
+Cream A,Brand D,USA,98% natural ingredients,statement,consumer perception,POS,0.64,Skincare,Cream
+Cream A,Brand D,USA,More hydration than leading brand,imagery,shares/sales/R&R/endorsement,PACK,0.73,Skincare,Cream
+Cream B,Brand A,USA,9 out of 10 women agree,statement,local relevance/safety/sustainability,Digital,0.87,Skincare,Cream
+Cream B,Brand A,USA,Tested on sensitive skin,imagery,science,TVC,0.37,Skincare,Cream
+Cream B,Brand A,USA,Sustainable packaging,statement,science,POS,0.7,Skincare,Cream
+Cream B,Brand A,USA,Sustainable packaging,comparative/superiority,packaging,TVC,0.51,Skincare,Cream
+Cream B,Brand A,USA,Tested on sensitive skin,comparative/superiority,ingredient,Digital,0.68,Skincare,Cream
+Cream B,Brand A,USA,Boosts skin barrier,imagery,science,PACK,0.96,Skincare,Cream
+Cream B,Brand A,USA,Instant soothing,imagery,formulation,PACK,0.36,Skincare,Cream
+Cream B,Brand A,USA,Eco-friendly packaging,statement,emotion,TVC,0.66,Skincare,Cream
+Cream B,Brand A,USA,Fast-absorbing texture,comparative/superiority,consumer perception,TVC,0.38,Skincare,Cream
+Cream B,Brand A,USA,Proven with clinical trial,comparative/superiority,formulation,PACK,0.99,Skincare,Cream
+Cream B,Brand A,USA,Tested on sensitive skin,imagery,local relevance/safety/sustainability,TVC,0.67,Skincare,Cream
+Cream B,Brand A,USA,Improves skin elasticity,comparative/superiority,sensory,POS,0.55,Skincare,Cream
+Cream B,Brand A,USA,Visible results in 7 days,imagery,packaging,TVC,0.48,Skincare,Cream
+Cream B,Brand A,USA,Reduces fine lines,statement,ingredient,Digital,0.42,Skincare,Cream
+Cream B,Brand A,USA,Sustainable packaging,comparative/superiority,consumer perception,TVC,0.66,Skincare,Cream
+Cream B,Brand A,USA,Glowing skin all day,statement,emotion,PACK,0.94,Skincare,Cream
+Cream B,Brand A,USA,Instant soothing,imagery,clinical/instrumental,POS,0.35,Skincare,Cream
+Cream B,Brand A,USA,Dermatologist recommended formula,comparative/superiority,local relevance/safety/sustainability,TVC,0.93,Skincare,Cream
+Cream B,Brand A,USA,Fast-absorbing texture,imagery,clinical/instrumental,POS,0.52,Skincare,Cream
+Cream B,Brand A,USA,Allergy tested,statement,science,PACK,0.41,Skincare,Cream
+Cream B,Brand A,USA,Deep hydration effect,statement,clinical/instrumental,TVC,0.36,Skincare,Cream
+Cream B,Brand A,USA,Recommended by dermatologists,comparative/superiority,science,POS,0.99,Skincare,Cream
+Cream B,Brand A,USA,Allergy tested,comparative/superiority,formulation,TVC,0.6,Skincare,Cream
+Cream B,Brand A,USA,Trusted by professionals,statement,emotion,POS,0.69,Skincare,Cream
+Cream B,Brand A,USA,Tested on sensitive skin,statement,sensory,TVC,0.65,Skincare,Cream
+Cream B,Brand A,USA,Innovative delivery system,statement,formulation,PACK,0.32,Skincare,Cream
+Cream B,Brand A,USA,Boosts skin barrier,comparative/superiority,science,TVC,0.71,Skincare,Cream
+Cream B,Brand A,USA,Tested on sensitive skin,imagery,local relevance/safety/sustainability,Digital,0.57,Skincare,Cream
+Serum C,Brand B,USA,Tested on sensitive skin,imagery,packaging,Digital,0.49,Skincare,Serum
+Serum C,Brand B,USA,Proven with clinical trial,imagery,local relevance/safety/sustainability,PACK,0.8,Skincare,Serum
+Serum C,Brand B,USA,Boosts skin barrier,imagery,local relevance/safety/sustainability,PACK,0.63,Skincare,Serum
+Serum C,Brand B,USA,No parabens,imagery,clinical/instrumental,Digital,0.95,Skincare,Serum
+Serum C,Brand B,USA,Tested on sensitive skin,imagery,consumer perception,Digital,0.78,Skincare,Serum
+Serum C,Brand B,USA,Instant soothing,statement,shares/sales/R&R/endorsement,Digital,0.47,Skincare,Serum
+Serum C,Brand B,USA,Fragrance-free and gentle,statement,emotion,PACK,0.91,Skincare,Serum
+Serum C,Brand B,USA,Innovative delivery system,comparative/superiority,emotion,TVC,0.48,Skincare,Serum
+Serum C,Brand B,USA,9 out of 10 women agree,comparative/superiority,consumer perception,POS,0.51,Skincare,Serum
+Serum C,Brand B,USA,9 out of 10 women agree,statement,science,TVC,0.83,Skincare,Serum
+Serum C,Brand B,USA,9 out of 10 women agree,comparative/superiority,ingredient,POS,0.91,Skincare,Serum
+Serum C,Brand B,USA,Clinically proven results,imagery,consumer perception,POS,0.33,Skincare,Serum
+Serum C,Brand B,USA,Boosts skin barrier,comparative/superiority,local relevance/safety/sustainability,POS,0.68,Skincare,Serum
+Serum C,Brand B,USA,Reduces fine lines,imagery,sensory,PACK,0.97,Skincare,Serum
+Serum C,Brand B,USA,Reduces pore appearance,imagery,ingredient,TVC,0.99,Skincare,Serum
+Serum C,Brand B,USA,Allergy tested,imagery,local relevance/safety/sustainability,PACK,0.92,Skincare,Serum
+Serum C,Brand B,USA,Reduces pore appearance,statement,packaging,TVC,0.99,Skincare,Serum
+Serum C,Brand B,USA,Sustainable packaging,comparative/superiority,emotion,TVC,0.51,Skincare,Serum
+Serum C,Brand B,USA,Sustainable packaging,imagery,formulation,TVC,0.96,Skincare,Serum
+Serum C,Brand B,USA,Eco-friendly packaging,comparative/superiority,ingredient,TVC,0.76,Skincare,Serum
+Serum C,Brand B,USA,Instant soothing,comparative/superiority,packaging,POS,0.49,Skincare,Serum
+Serum C,Brand B,USA,Tested on sensitive skin,statement,local relevance/safety/sustainability,Digital,0.95,Skincare,Serum
+Serum C,Brand B,USA,Allergy tested,statement,local relevance/safety/sustainability,Digital,0.48,Skincare,Serum
+Serum C,Brand B,USA,No parabens,imagery,emotion,POS,0.43,Skincare,Serum
+Serum C,Brand B,USA,Recommended by dermatologists,comparative/superiority,sensory,TVC,0.83,Skincare,Serum
+Serum C,Brand B,USA,Allergy tested,statement,consumer perception,TVC,0.47,Skincare,Serum
+Serum D,Brand A,USA,Improves skin elasticity,imagery,shares/sales/R&R/endorsement,TVC,0.5,Skincare,Serum
+Serum D,Brand A,USA,Improves skin elasticity,imagery,formulation,TVC,0.45,Skincare,Serum
+Serum D,Brand A,USA,Fragrance-free and gentle,statement,local relevance/safety/sustainability,Digital,0.73,Skincare,Serum
+Serum D,Brand A,USA,98% natural ingredients,imagery,sensory,PACK,0.58,Skincare,Serum
+Serum D,Brand A,USA,Allergy tested,imagery,science,PACK,0.61,Skincare,Serum
+Serum D,Brand A,USA,Boosts skin barrier,statement,clinical/instrumental,TVC,0.81,Skincare,Serum
+Serum D,Brand A,USA,Deep hydration effect,statement,emotion,PACK,0.32,Skincare,Serum
+Serum D,Brand A,USA,Sustainable packaging,statement,science,Digital,0.47,Skincare,Serum
+Serum D,Brand A,USA,Reduces pore appearance,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.44,Skincare,Serum
+Serum D,Brand A,USA,98% natural ingredients,statement,formulation,PACK,0.98,Skincare,Serum
+Serum D,Brand A,USA,Smooth skin after 1 week,comparative/superiority,clinical/instrumental,POS,0.77,Skincare,Serum
+Serum D,Brand A,USA,Eco-friendly packaging,comparative/superiority,packaging,PACK,0.86,Skincare,Serum
+Serum D,Brand A,USA,9 out of 10 women agree,statement,ingredient,PACK,0.69,Skincare,Serum
+Serum D,Brand A,USA,Smooth skin after 1 week,statement,ingredient,PACK,0.66,Skincare,Serum
+Serum D,Brand A,USA,Clinically proven results,comparative/superiority,shares/sales/R&R/endorsement,POS,0.39,Skincare,Serum
+Serum D,Brand A,USA,Reduces fine lines,comparative/superiority,sensory,PACK,0.77,Skincare,Serum
+Serum D,Brand A,USA,No parabens,comparative/superiority,sensory,TVC,0.4,Skincare,Serum
+Serum D,Brand A,USA,Clinically proven results,imagery,science,TVC,0.49,Skincare,Serum
+Serum D,Brand A,USA,Boosts skin barrier,imagery,formulation,Digital,0.5,Skincare,Serum
+Serum D,Brand A,USA,98% natural ingredients,imagery,emotion,POS,0.34,Skincare,Serum
+Serum D,Brand A,USA,Innovative delivery system,imagery,ingredient,Digital,0.95,Skincare,Serum
+Serum D,Brand A,USA,Sustainable packaging,statement,local relevance/safety/sustainability,POS,0.73,Skincare,Serum
+Serum D,Brand A,USA,Allergy tested,statement,ingredient,PACK,0.35,Skincare,Serum
+Serum D,Brand A,USA,9 out of 10 women agree,imagery,ingredient,PACK,0.9,Skincare,Serum
+Serum D,Brand A,USA,Clinically proven results,statement,sensory,Digital,0.71,Skincare,Serum
+Essence E,Brand C,USA,Recommended by dermatologists,imagery,shares/sales/R&R/endorsement,POS,0.59,Skincare,Essence
+Essence E,Brand C,USA,Visible glow immediately,comparative/superiority,local relevance/safety/sustainability,POS,0.62,Skincare,Essence
+Essence E,Brand C,USA,Non-comedogenic,statement,packaging,Digital,0.88,Skincare,Essence
+Essence E,Brand C,USA,More hydration than leading brand,statement,clinical/instrumental,Digital,0.95,Skincare,Essence
+Essence E,Brand C,USA,Non-comedogenic,statement,sensory,POS,0.67,Skincare,Essence
+Essence E,Brand C,USA,9 out of 10 women agree,statement,clinical/instrumental,POS,0.69,Skincare,Essence
+Essence E,Brand C,USA,Non-comedogenic,imagery,packaging,Digital,0.97,Skincare,Essence
+Essence E,Brand C,USA,Oil-free formula,comparative/superiority,local relevance/safety/sustainability,PACK,0.31,Skincare,Essence
+Essence E,Brand C,USA,Fast-absorbing texture,statement,packaging,Digital,0.8,Skincare,Essence
+Essence E,Brand C,USA,Tested on sensitive skin,imagery,emotion,TVC,0.57,Skincare,Essence
+Essence E,Brand C,USA,Trusted by professionals,imagery,sensory,TVC,0.97,Skincare,Essence
+Essence E,Brand C,USA,Smooth skin after 1 week,imagery,packaging,PACK,0.39,Skincare,Essence
+Essence E,Brand C,USA,No parabens,imagery,consumer perception,POS,0.6,Skincare,Essence
+Essence E,Brand C,USA,Glowing skin all day,comparative/superiority,local relevance/safety/sustainability,POS,0.8,Skincare,Essence
+Essence E,Brand C,USA,98% natural ingredients,statement,shares/sales/R&R/endorsement,PACK,0.48,Skincare,Essence
+Essence E,Brand C,USA,Allergy tested,statement,clinical/instrumental,PACK,0.72,Skincare,Essence
+Essence E,Brand C,USA,Proven with clinical trial,statement,ingredient,TVC,0.77,Skincare,Essence
+Essence E,Brand C,USA,More hydration than leading brand,imagery,shares/sales/R&R/endorsement,Digital,0.78,Skincare,Essence
+Essence E,Brand C,USA,Innovative delivery system,imagery,packaging,POS,0.95,Skincare,Essence
+Essence E,Brand C,USA,Recommended by dermatologists,imagery,packaging,Digital,0.39,Skincare,Essence
+Essence E,Brand C,USA,Glowing skin all day,imagery,science,PACK,0.64,Skincare,Essence
+Essence E,Brand C,USA,9 out of 10 women agree,imagery,science,Digital,0.54,Skincare,Essence
+Essence E,Brand C,USA,Smooth skin after 1 week,statement,ingredient,Digital,0.31,Skincare,Essence
+Essence E,Brand C,USA,Eco-friendly packaging,imagery,consumer perception,POS,0.58,Skincare,Essence
+Essence E,Brand C,USA,Deep hydration effect,statement,shares/sales/R&R/endorsement,PACK,0.45,Skincare,Essence
+Cream F,Brand C,USA,Eco-friendly packaging,comparative/superiority,formulation,TVC,0.59,Skincare,Cream
+Cream F,Brand C,USA,Boosts skin barrier,comparative/superiority,science,POS,0.76,Skincare,Cream
+Cream F,Brand C,USA,Recommended by dermatologists,statement,formulation,Digital,0.81,Skincare,Cream
+Cream F,Brand C,USA,Reduces pore appearance,statement,science,Digital,0.68,Skincare,Cream
+Cream F,Brand C,USA,Allergy tested,statement,clinical/instrumental,Digital,0.51,Skincare,Cream
+Cream F,Brand C,USA,Dermatologist recommended formula,comparative/superiority,formulation,TVC,0.97,Skincare,Cream
+Cream F,Brand C,USA,Sustainable packaging,imagery,packaging,POS,0.97,Skincare,Cream
+Cream F,Brand C,USA,Improves skin elasticity,imagery,consumer perception,PACK,0.88,Skincare,Cream
+Cream F,Brand C,USA,Visible results in 7 days,statement,consumer perception,Digital,0.73,Skincare,Cream
+Cream F,Brand C,USA,Pro formula,statement,shares/sales/R&R/endorsement,POS,0.69,Skincare,Cream
+Cream F,Brand C,USA,Innovative delivery system,statement,consumer perception,TVC,0.85,Skincare,Cream
+Cream F,Brand C,USA,98% natural ingredients,imagery,sensory,TVC,0.39,Skincare,Cream
+Cream F,Brand C,USA,Deep hydration effect,statement,sensory,Digital,0.51,Skincare,Cream
+Cream F,Brand C,USA,98% natural ingredients,comparative/superiority,ingredient,TVC,0.86,Skincare,Cream
+Cream F,Brand C,USA,Instant soothing,comparative/superiority,consumer perception,PACK,0.64,Skincare,Cream
+Cream F,Brand C,USA,Improves skin elasticity,statement,sensory,Digital,0.5,Skincare,Cream
+Cream F,Brand C,USA,Clinically proven results,statement,shares/sales/R&R/endorsement,Digital,0.58,Skincare,Cream
+Cream F,Brand C,USA,Pro formula,imagery,local relevance/safety/sustainability,POS,0.69,Skincare,Cream
+Cream F,Brand C,USA,Fast-absorbing texture,comparative/superiority,sensory,PACK,0.97,Skincare,Cream
+Cream F,Brand C,USA,Trusted by professionals,statement,shares/sales/R&R/endorsement,POS,0.4,Skincare,Cream
+Cream F,Brand C,USA,No parabens,statement,clinical/instrumental,PACK,0.56,Skincare,Cream
+Cream F,Brand C,USA,98% natural ingredients,imagery,sensory,POS,0.46,Skincare,Cream
+Cream F,Brand C,USA,Reduces fine lines,imagery,formulation,PACK,0.35,Skincare,Cream
+Cream F,Brand C,USA,Non-comedogenic,imagery,packaging,TVC,0.94,Skincare,Cream
+Cream F,Brand C,USA,Trusted by professionals,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.93,Skincare,Cream
+Cream F,Brand C,USA,Trusted by professionals,imagery,local relevance/safety/sustainability,POS,0.85,Skincare,Cream
+Cream F,Brand C,USA,Proven with clinical trial,imagery,sensory,PACK,0.64,Skincare,Cream
+Cream F,Brand C,USA,Trusted by professionals,comparative/superiority,local relevance/safety/sustainability,PACK,0.65,Skincare,Cream
+Cream F,Brand C,USA,Non-comedogenic,comparative/superiority,ingredient,POS,0.48,Skincare,Cream
+Cream F,Brand C,USA,Visible results in 7 days,statement,consumer perception,TVC,0.41,Skincare,Cream
+Serum G,Brand A,USA,Instant soothing,imagery,formulation,Digital,0.58,Skincare,Serum
+Serum G,Brand A,USA,9 out of 10 women agree,statement,shares/sales/R&R/endorsement,TVC,0.65,Skincare,Serum
+Serum G,Brand A,USA,Glowing skin all day,imagery,sensory,POS,0.39,Skincare,Serum
+Serum G,Brand A,USA,Instant soothing,comparative/superiority,sensory,TVC,0.43,Skincare,Serum
+Serum G,Brand A,USA,Tested on sensitive skin,imagery,clinical/instrumental,POS,0.47,Skincare,Serum
+Serum G,Brand A,USA,Deep hydration effect,comparative/superiority,ingredient,POS,0.88,Skincare,Serum
+Serum G,Brand A,USA,Fast-absorbing texture,imagery,science,TVC,0.51,Skincare,Serum
+Serum G,Brand A,USA,Tested on sensitive skin,comparative/superiority,science,Digital,0.37,Skincare,Serum
+Serum G,Brand A,USA,Deep hydration effect,comparative/superiority,science,POS,0.33,Skincare,Serum
+Serum G,Brand A,USA,Smooth skin after 1 week,comparative/superiority,science,POS,0.74,Skincare,Serum
+Serum G,Brand A,USA,No parabens,imagery,shares/sales/R&R/endorsement,PACK,0.77,Skincare,Serum
+Serum G,Brand A,USA,Fragrance-free and gentle,imagery,shares/sales/R&R/endorsement,PACK,0.52,Skincare,Serum
+Serum G,Brand A,USA,Trusted by professionals,comparative/superiority,science,PACK,0.65,Skincare,Serum
+Serum G,Brand A,USA,Non-comedogenic,imagery,emotion,POS,0.76,Skincare,Serum
+Serum G,Brand A,USA,Pro formula,comparative/superiority,packaging,Digital,0.78,Skincare,Serum
+Serum G,Brand A,USA,Reduces pore appearance,imagery,formulation,TVC,0.95,Skincare,Serum
+Serum G,Brand A,USA,Dermatologist recommended formula,comparative/superiority,local relevance/safety/sustainability,TVC,0.4,Skincare,Serum
+Serum G,Brand A,USA,Dermatologist recommended formula,comparative/superiority,emotion,POS,0.73,Skincare,Serum
+Serum G,Brand A,USA,Visible glow immediately,statement,packaging,TVC,0.65,Skincare,Serum
+Serum G,Brand A,USA,Tested on sensitive skin,imagery,packaging,PACK,0.86,Skincare,Serum
+Serum G,Brand A,USA,Dermatologist recommended formula,comparative/superiority,emotion,PACK,0.78,Skincare,Serum
+Serum G,Brand A,USA,Reduces pore appearance,imagery,consumer perception,PACK,0.54,Skincare,Serum
+Serum G,Brand A,USA,Visible results in 7 days,statement,local relevance/safety/sustainability,TVC,0.45,Skincare,Serum
+Serum G,Brand A,USA,Reduces fine lines,comparative/superiority,sensory,Digital,0.86,Skincare,Serum
+Serum G,Brand A,USA,Clinically proven results,comparative/superiority,packaging,TVC,0.83,Skincare,Serum
+Serum G,Brand A,USA,Boosts skin barrier,comparative/superiority,consumer perception,Digital,0.95,Skincare,Serum
+Serum G,Brand A,USA,Pro formula,comparative/superiority,emotion,TVC,0.36,Skincare,Serum
+Serum G,Brand A,USA,Reduces pore appearance,comparative/superiority,clinical/instrumental,PACK,0.99,Skincare,Serum
+Serum G,Brand A,USA,Oil-free formula,comparative/superiority,formulation,TVC,0.99,Skincare,Serum
+Serum G,Brand A,USA,Boosts skin barrier,comparative/superiority,formulation,POS,0.7,Skincare,Serum
+Serum H,Brand A,USA,Trusted by professionals,imagery,ingredient,TVC,1.0,Skincare,Serum
+Serum H,Brand A,USA,Sustainable packaging,comparative/superiority,emotion,TVC,0.4,Skincare,Serum
+Serum H,Brand A,USA,98% natural ingredients,statement,emotion,TVC,0.45,Skincare,Serum
+Serum H,Brand A,USA,Tested on sensitive skin,imagery,local relevance/safety/sustainability,TVC,0.41,Skincare,Serum
+Serum H,Brand A,USA,98% natural ingredients,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.97,Skincare,Serum
+Serum H,Brand A,USA,9 out of 10 women agree,comparative/superiority,emotion,TVC,0.41,Skincare,Serum
+Serum H,Brand A,USA,Improves skin elasticity,comparative/superiority,emotion,POS,0.37,Skincare,Serum
+Serum H,Brand A,USA,Dermatologist recommended formula,imagery,local relevance/safety/sustainability,PACK,0.77,Skincare,Serum
+Serum H,Brand A,USA,Deep hydration effect,imagery,clinical/instrumental,PACK,0.81,Skincare,Serum
+Serum H,Brand A,USA,No parabens,statement,formulation,TVC,0.86,Skincare,Serum
+Serum H,Brand A,USA,Glowing skin all day,comparative/superiority,science,TVC,0.41,Skincare,Serum
+Serum H,Brand A,USA,Reduces pore appearance,statement,consumer perception,Digital,0.76,Skincare,Serum
+Serum H,Brand A,USA,Instant soothing,statement,consumer perception,Digital,0.58,Skincare,Serum
+Serum H,Brand A,USA,Innovative delivery system,statement,local relevance/safety/sustainability,TVC,0.63,Skincare,Serum
+Serum H,Brand A,USA,98% natural ingredients,comparative/superiority,formulation,POS,0.88,Skincare,Serum
+Serum H,Brand A,USA,No parabens,comparative/superiority,formulation,Digital,0.81,Skincare,Serum
+Serum H,Brand A,USA,98% natural ingredients,imagery,local relevance/safety/sustainability,Digital,0.68,Skincare,Serum
+Serum H,Brand A,USA,Trusted by professionals,imagery,packaging,Digital,0.56,Skincare,Serum
+Serum H,Brand A,USA,Visible results in 7 days,imagery,shares/sales/R&R/endorsement,Digital,0.78,Skincare,Serum
+Serum H,Brand A,USA,Boosts skin barrier,imagery,ingredient,POS,0.77,Skincare,Serum
+Serum H,Brand A,USA,Visible glow immediately,imagery,consumer perception,PACK,0.81,Skincare,Serum
+Serum H,Brand A,USA,Improves skin elasticity,statement,packaging,TVC,0.39,Skincare,Serum
+Serum H,Brand A,USA,Eco-friendly packaging,imagery,formulation,POS,0.53,Skincare,Serum
+Serum H,Brand A,USA,Visible results in 7 days,imagery,formulation,PACK,0.43,Skincare,Serum
+Serum H,Brand A,USA,Clinically proven results,statement,consumer perception,PACK,0.65,Skincare,Serum
+Serum H,Brand A,USA,Smooth skin after 1 week,comparative/superiority,local relevance/safety/sustainability,PACK,0.51,Skincare,Serum
+Serum H,Brand A,USA,9 out of 10 women agree,comparative/superiority,packaging,POS,0.86,Skincare,Serum
+Serum H,Brand A,USA,Pro formula,imagery,consumer perception,PACK,0.83,Skincare,Serum
+Serum H,Brand A,USA,Recommended by dermatologists,imagery,packaging,PACK,0.48,Skincare,Serum
+Serum H,Brand A,USA,Fragrance-free and gentle,imagery,science,Digital,0.61,Skincare,Serum
+Toner I,Brand D,USA,Visible glow immediately,statement,packaging,POS,0.96,Skincare,Toner
+Toner I,Brand D,USA,Proven with clinical trial,imagery,ingredient,TVC,0.81,Skincare,Toner
+Toner I,Brand D,USA,Recommended by dermatologists,comparative/superiority,clinical/instrumental,PACK,0.57,Skincare,Toner
+Toner I,Brand D,USA,Dermatologist recommended formula,statement,emotion,PACK,0.58,Skincare,Toner
+Toner I,Brand D,USA,No parabens,statement,packaging,TVC,0.85,Skincare,Toner
+Toner I,Brand D,USA,Innovative delivery system,statement,clinical/instrumental,TVC,0.89,Skincare,Toner
+Toner I,Brand D,USA,Fragrance-free and gentle,imagery,packaging,POS,0.81,Skincare,Toner
+Toner I,Brand D,USA,Eco-friendly packaging,imagery,formulation,POS,0.62,Skincare,Toner
+Toner I,Brand D,USA,Recommended by dermatologists,statement,consumer perception,Digital,0.9,Skincare,Toner
+Toner I,Brand D,USA,Glowing skin all day,statement,formulation,TVC,0.91,Skincare,Toner
+Toner I,Brand D,USA,Fast-absorbing texture,comparative/superiority,formulation,Digital,0.78,Skincare,Toner
+Toner I,Brand D,USA,Eco-friendly packaging,imagery,formulation,PACK,0.34,Skincare,Toner
+Toner I,Brand D,USA,Fast-absorbing texture,statement,ingredient,TVC,0.7,Skincare,Toner
+Toner I,Brand D,USA,Glowing skin all day,statement,science,POS,0.73,Skincare,Toner
+Toner I,Brand D,USA,Instant soothing,imagery,packaging,Digital,0.62,Skincare,Toner
+Toner I,Brand D,USA,98% natural ingredients,statement,consumer perception,TVC,0.39,Skincare,Toner
+Toner I,Brand D,USA,Deep hydration effect,comparative/superiority,consumer perception,PACK,0.86,Skincare,Toner
+Toner I,Brand D,USA,Proven with clinical trial,imagery,packaging,Digital,0.78,Skincare,Toner
+Toner I,Brand D,USA,Recommended by dermatologists,comparative/superiority,clinical/instrumental,POS,0.5,Skincare,Toner
+Toner I,Brand D,USA,Oil-free formula,comparative/superiority,consumer perception,Digital,0.98,Skincare,Toner
+Toner I,Brand D,USA,Proven with clinical trial,imagery,clinical/instrumental,PACK,0.36,Skincare,Toner
+Toner I,Brand D,USA,Innovative delivery system,statement,clinical/instrumental,Digital,0.6,Skincare,Toner
+Toner I,Brand D,USA,More hydration than leading brand,imagery,formulation,Digital,0.63,Skincare,Toner
+Toner I,Brand D,USA,Glowing skin all day,comparative/superiority,consumer perception,Digital,0.81,Skincare,Toner
+Toner I,Brand D,USA,Clinically proven results,statement,local relevance/safety/sustainability,Digital,0.51,Skincare,Toner
+Toner I,Brand D,USA,Fast-absorbing texture,comparative/superiority,local relevance/safety/sustainability,TVC,0.48,Skincare,Toner
+Toner I,Brand D,USA,Recommended by dermatologists,comparative/superiority,packaging,POS,0.89,Skincare,Toner
+Toner I,Brand D,USA,98% natural ingredients,imagery,sensory,TVC,0.95,Skincare,Toner
+Toner I,Brand D,USA,No parabens,comparative/superiority,clinical/instrumental,TVC,0.47,Skincare,Toner
+Cream J,Brand B,USA,Fragrance-free and gentle,imagery,shares/sales/R&R/endorsement,POS,0.84,Skincare,Cream
+Cream J,Brand B,USA,Allergy tested,imagery,science,TVC,0.69,Skincare,Cream
+Cream J,Brand B,USA,Eco-friendly packaging,comparative/superiority,ingredient,TVC,0.51,Skincare,Cream
+Cream J,Brand B,USA,Boosts skin barrier,comparative/superiority,consumer perception,Digital,0.83,Skincare,Cream
+Cream J,Brand B,USA,Recommended by dermatologists,comparative/superiority,packaging,TVC,0.48,Skincare,Cream
+Cream J,Brand B,USA,Tested on sensitive skin,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.31,Skincare,Cream
+Cream J,Brand B,USA,More hydration than leading brand,statement,local relevance/safety/sustainability,POS,0.64,Skincare,Cream
+Cream J,Brand B,USA,Allergy tested,comparative/superiority,emotion,PACK,0.31,Skincare,Cream
+Cream J,Brand B,USA,Deep hydration effect,comparative/superiority,consumer perception,Digital,0.42,Skincare,Cream
+Cream J,Brand B,USA,Allergy tested,statement,packaging,POS,0.81,Skincare,Cream
+Cream J,Brand B,USA,Boosts skin barrier,comparative/superiority,packaging,PACK,0.85,Skincare,Cream
+Cream J,Brand B,USA,Innovative delivery system,statement,packaging,Digital,0.35,Skincare,Cream
+Cream J,Brand B,USA,Boosts skin barrier,imagery,packaging,PACK,0.7,Skincare,Cream
+Cream J,Brand B,USA,Glowing skin all day,imagery,science,Digital,0.89,Skincare,Cream
+Cream J,Brand B,USA,Eco-friendly packaging,imagery,local relevance/safety/sustainability,Digital,0.47,Skincare,Cream
+Cream J,Brand B,USA,Boosts skin barrier,statement,formulation,POS,0.76,Skincare,Cream
+Cream J,Brand B,USA,Oil-free formula,statement,local relevance/safety/sustainability,TVC,0.92,Skincare,Cream
+Cream J,Brand B,USA,Recommended by dermatologists,comparative/superiority,sensory,Digital,0.81,Skincare,Cream
+Cream J,Brand B,USA,Improves skin elasticity,comparative/superiority,formulation,Digital,0.81,Skincare,Cream
+Cream J,Brand B,USA,Visible results in 7 days,imagery,ingredient,TVC,0.76,Skincare,Cream
+Cream J,Brand B,USA,9 out of 10 women agree,statement,clinical/instrumental,PACK,0.36,Skincare,Cream
+Cream J,Brand B,USA,Dermatologist recommended formula,statement,clinical/instrumental,POS,0.79,Skincare,Cream
+Cream J,Brand B,USA,Deep hydration effect,comparative/superiority,shares/sales/R&R/endorsement,POS,0.87,Skincare,Cream
+Cream J,Brand B,USA,No parabens,statement,emotion,TVC,0.53,Skincare,Cream
+Cream J,Brand B,USA,Tested on sensitive skin,comparative/superiority,packaging,PACK,0.85,Skincare,Cream
+Cream J,Brand B,USA,Visible results in 7 days,statement,local relevance/safety/sustainability,Digital,0.54,Skincare,Cream
+Lotion A,Brand B,China,9 out of 10 women agree,imagery,clinical/instrumental,Digital,0.51,Skincare,Lotion
+Lotion A,Brand B,China,Pro formula,imagery,consumer perception,POS,0.53,Skincare,Lotion
+Lotion A,Brand B,China,Reduces fine lines,statement,local relevance/safety/sustainability,Digital,0.35,Skincare,Lotion
+Lotion A,Brand B,China,Proven with clinical trial,statement,sensory,POS,0.51,Skincare,Lotion
+Lotion A,Brand B,China,Glowing skin all day,comparative/superiority,sensory,TVC,0.74,Skincare,Lotion
+Lotion A,Brand B,China,Reduces fine lines,statement,formulation,Digital,0.4,Skincare,Lotion
+Lotion A,Brand B,China,Reduces pore appearance,imagery,consumer perception,PACK,0.49,Skincare,Lotion
+Lotion A,Brand B,China,Non-comedogenic,imagery,ingredient,Digital,0.53,Skincare,Lotion
+Lotion A,Brand B,China,Recommended by dermatologists,imagery,sensory,PACK,0.55,Skincare,Lotion
+Lotion A,Brand B,China,Fast-absorbing texture,imagery,science,PACK,0.84,Skincare,Lotion
+Lotion A,Brand B,China,Proven with clinical trial,comparative/superiority,local relevance/safety/sustainability,POS,0.87,Skincare,Lotion
+Lotion A,Brand B,China,Reduces fine lines,imagery,shares/sales/R&R/endorsement,TVC,0.45,Skincare,Lotion
+Lotion A,Brand B,China,More hydration than leading brand,comparative/superiority,formulation,TVC,0.91,Skincare,Lotion
+Lotion A,Brand B,China,Deep hydration effect,statement,local relevance/safety/sustainability,POS,0.72,Skincare,Lotion
+Lotion A,Brand B,China,Dermatologist recommended formula,imagery,formulation,Digital,0.43,Skincare,Lotion
+Lotion A,Brand B,China,Proven with clinical trial,comparative/superiority,formulation,Digital,0.34,Skincare,Lotion
+Lotion A,Brand B,China,Visible results in 7 days,statement,science,Digital,0.96,Skincare,Lotion
+Lotion A,Brand B,China,No parabens,imagery,ingredient,PACK,0.59,Skincare,Lotion
+Lotion A,Brand B,China,Dermatologist recommended formula,statement,packaging,TVC,0.78,Skincare,Lotion
+Lotion A,Brand B,China,Instant soothing,comparative/superiority,local relevance/safety/sustainability,Digital,0.91,Skincare,Lotion
+Lotion A,Brand B,China,Non-comedogenic,imagery,emotion,POS,0.84,Skincare,Lotion
+Lotion A,Brand B,China,Pro formula,statement,clinical/instrumental,PACK,0.59,Skincare,Lotion
+Lotion A,Brand B,China,Allergy tested,statement,science,Digital,0.97,Skincare,Lotion
+Lotion A,Brand B,China,Tested on sensitive skin,statement,science,Digital,0.94,Skincare,Lotion
+Lotion A,Brand B,China,Visible glow immediately,comparative/superiority,sensory,PACK,0.98,Skincare,Lotion
+Lotion A,Brand B,China,Dermatologist recommended formula,statement,sensory,POS,0.53,Skincare,Lotion
+Lotion A,Brand B,China,Improves skin elasticity,imagery,science,TVC,0.99,Skincare,Lotion
+Lotion A,Brand B,China,No parabens,statement,clinical/instrumental,Digital,0.74,Skincare,Lotion
+Lotion B,Brand C,China,Reduces fine lines,statement,local relevance/safety/sustainability,Digital,0.61,Skincare,Lotion
+Lotion B,Brand C,China,Deep hydration effect,imagery,consumer perception,TVC,0.68,Skincare,Lotion
+Lotion B,Brand C,China,Reduces pore appearance,statement,consumer perception,PACK,0.77,Skincare,Lotion
+Lotion B,Brand C,China,Trusted by professionals,comparative/superiority,ingredient,TVC,0.66,Skincare,Lotion
+Lotion B,Brand C,China,Pro formula,statement,science,PACK,0.8,Skincare,Lotion
+Lotion B,Brand C,China,Dermatologist recommended formula,comparative/superiority,clinical/instrumental,POS,0.31,Skincare,Lotion
+Lotion B,Brand C,China,Glowing skin all day,imagery,science,Digital,0.69,Skincare,Lotion
+Lotion B,Brand C,China,Eco-friendly packaging,comparative/superiority,sensory,TVC,0.4,Skincare,Lotion
+Lotion B,Brand C,China,Glowing skin all day,statement,consumer perception,POS,0.31,Skincare,Lotion
+Lotion B,Brand C,China,Trusted by professionals,statement,formulation,PACK,0.97,Skincare,Lotion
+Lotion B,Brand C,China,Reduces pore appearance,statement,shares/sales/R&R/endorsement,Digital,0.8,Skincare,Lotion
+Lotion B,Brand C,China,Proven with clinical trial,imagery,science,Digital,0.99,Skincare,Lotion
+Lotion B,Brand C,China,Sustainable packaging,imagery,shares/sales/R&R/endorsement,TVC,0.4,Skincare,Lotion
+Lotion B,Brand C,China,Allergy tested,comparative/superiority,science,Digital,0.63,Skincare,Lotion
+Lotion B,Brand C,China,Instant soothing,statement,sensory,PACK,0.62,Skincare,Lotion
+Lotion B,Brand C,China,Trusted by professionals,imagery,formulation,PACK,0.37,Skincare,Lotion
+Lotion B,Brand C,China,9 out of 10 women agree,imagery,consumer perception,TVC,0.86,Skincare,Lotion
+Lotion B,Brand C,China,More hydration than leading brand,statement,formulation,POS,0.33,Skincare,Lotion
+Lotion B,Brand C,China,Reduces fine lines,comparative/superiority,consumer perception,POS,0.62,Skincare,Lotion
+Lotion B,Brand C,China,Recommended by dermatologists,statement,consumer perception,POS,0.82,Skincare,Lotion
+Lotion B,Brand C,China,Recommended by dermatologists,imagery,shares/sales/R&R/endorsement,Digital,0.9,Skincare,Lotion
+Lotion B,Brand C,China,Innovative delivery system,comparative/superiority,emotion,POS,0.42,Skincare,Lotion
+Lotion B,Brand C,China,Deep hydration effect,comparative/superiority,clinical/instrumental,POS,0.89,Skincare,Lotion
+Lotion B,Brand C,China,Tested on sensitive skin,comparative/superiority,formulation,TVC,0.7,Skincare,Lotion
+Lotion B,Brand C,China,Dermatologist recommended formula,statement,packaging,PACK,0.8,Skincare,Lotion
+Lotion B,Brand C,China,Reduces pore appearance,imagery,consumer perception,Digital,0.42,Skincare,Lotion
+Lotion B,Brand C,China,Instant soothing,statement,sensory,PACK,0.66,Skincare,Lotion
+Lotion B,Brand C,China,Reduces fine lines,statement,ingredient,POS,0.8,Skincare,Lotion
+Lotion B,Brand C,China,Dermatologist recommended formula,imagery,local relevance/safety/sustainability,PACK,0.92,Skincare,Lotion
+Essence C,Brand C,China,Glowing skin all day,comparative/superiority,emotion,POS,0.55,Skincare,Essence
+Essence C,Brand C,China,Instant soothing,comparative/superiority,emotion,PACK,0.37,Skincare,Essence
+Essence C,Brand C,China,More hydration than leading brand,comparative/superiority,emotion,TVC,0.65,Skincare,Essence
+Essence C,Brand C,China,Visible glow immediately,imagery,ingredient,TVC,0.51,Skincare,Essence
+Essence C,Brand C,China,More hydration than leading brand,statement,clinical/instrumental,TVC,0.65,Skincare,Essence
+Essence C,Brand C,China,Pro formula,comparative/superiority,emotion,TVC,0.51,Skincare,Essence
+Essence C,Brand C,China,Oil-free formula,imagery,clinical/instrumental,PACK,0.76,Skincare,Essence
+Essence C,Brand C,China,Non-comedogenic,imagery,sensory,PACK,0.87,Skincare,Essence
+Essence C,Brand C,China,Dermatologist recommended formula,comparative/superiority,science,PACK,0.36,Skincare,Essence
+Essence C,Brand C,China,Visible results in 7 days,comparative/superiority,science,Digital,0.3,Skincare,Essence
+Essence C,Brand C,China,Visible glow immediately,statement,consumer perception,POS,0.35,Skincare,Essence
+Essence C,Brand C,China,Visible glow immediately,comparative/superiority,sensory,TVC,0.91,Skincare,Essence
+Essence C,Brand C,China,Reduces pore appearance,statement,local relevance/safety/sustainability,POS,0.97,Skincare,Essence
+Essence C,Brand C,China,Improves skin elasticity,imagery,clinical/instrumental,Digital,0.59,Skincare,Essence
+Essence C,Brand C,China,9 out of 10 women agree,comparative/superiority,packaging,POS,0.43,Skincare,Essence
+Essence C,Brand C,China,Pro formula,comparative/superiority,sensory,Digital,0.75,Skincare,Essence
+Essence C,Brand C,China,Boosts skin barrier,imagery,packaging,Digital,0.56,Skincare,Essence
+Essence C,Brand C,China,Tested on sensitive skin,imagery,consumer perception,Digital,0.78,Skincare,Essence
+Essence C,Brand C,China,98% natural ingredients,imagery,packaging,Digital,0.9,Skincare,Essence
+Essence C,Brand C,China,Trusted by professionals,comparative/superiority,emotion,PACK,0.39,Skincare,Essence
+Essence C,Brand C,China,Tested on sensitive skin,imagery,clinical/instrumental,PACK,0.4,Skincare,Essence
+Essence C,Brand C,China,Reduces pore appearance,statement,sensory,TVC,0.9,Skincare,Essence
+Essence C,Brand C,China,Non-comedogenic,imagery,consumer perception,POS,0.45,Skincare,Essence
+Essence C,Brand C,China,Fragrance-free and gentle,statement,formulation,TVC,0.55,Skincare,Essence
+Essence C,Brand C,China,Deep hydration effect,comparative/superiority,local relevance/safety/sustainability,PACK,0.55,Skincare,Essence
+Essence C,Brand C,China,No parabens,comparative/superiority,shares/sales/R&R/endorsement,PACK,1.0,Skincare,Essence
+Cream D,Brand B,China,Fast-absorbing texture,imagery,sensory,Digital,0.58,Skincare,Cream
+Cream D,Brand B,China,Trusted by professionals,comparative/superiority,consumer perception,TVC,0.92,Skincare,Cream
+Cream D,Brand B,China,Boosts skin barrier,statement,sensory,POS,0.91,Skincare,Cream
+Cream D,Brand B,China,Innovative delivery system,imagery,science,Digital,0.39,Skincare,Cream
+Cream D,Brand B,China,Improves skin elasticity,imagery,clinical/instrumental,Digital,0.43,Skincare,Cream
+Cream D,Brand B,China,Deep hydration effect,comparative/superiority,clinical/instrumental,POS,0.64,Skincare,Cream
+Cream D,Brand B,China,No parabens,imagery,clinical/instrumental,TVC,0.9,Skincare,Cream
+Cream D,Brand B,China,98% natural ingredients,comparative/superiority,science,PACK,0.8,Skincare,Cream
+Cream D,Brand B,China,Eco-friendly packaging,statement,local relevance/safety/sustainability,Digital,0.55,Skincare,Cream
+Cream D,Brand B,China,Smooth skin after 1 week,imagery,formulation,PACK,0.36,Skincare,Cream
+Cream D,Brand B,China,Fragrance-free and gentle,comparative/superiority,emotion,Digital,0.79,Skincare,Cream
+Cream D,Brand B,China,Boosts skin barrier,imagery,ingredient,POS,0.76,Skincare,Cream
+Cream D,Brand B,China,Smooth skin after 1 week,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.84,Skincare,Cream
+Cream D,Brand B,China,Eco-friendly packaging,imagery,formulation,TVC,0.3,Skincare,Cream
+Cream D,Brand B,China,Pro formula,statement,ingredient,Digital,0.73,Skincare,Cream
+Cream D,Brand B,China,Deep hydration effect,statement,shares/sales/R&R/endorsement,PACK,0.74,Skincare,Cream
+Cream D,Brand B,China,No parabens,comparative/superiority,emotion,PACK,0.57,Skincare,Cream
+Cream D,Brand B,China,Instant soothing,imagery,sensory,PACK,0.96,Skincare,Cream
+Cream D,Brand B,China,Recommended by dermatologists,statement,formulation,POS,0.69,Skincare,Cream
+Cream D,Brand B,China,Glowing skin all day,statement,clinical/instrumental,PACK,0.91,Skincare,Cream
+Cream D,Brand B,China,Improves skin elasticity,statement,ingredient,TVC,0.62,Skincare,Cream
+Cream D,Brand B,China,Pro formula,statement,packaging,TVC,0.47,Skincare,Cream
+Cream D,Brand B,China,98% natural ingredients,statement,ingredient,PACK,0.66,Skincare,Cream
+Cream D,Brand B,China,Glowing skin all day,imagery,packaging,TVC,0.31,Skincare,Cream
+Cream D,Brand B,China,Smooth skin after 1 week,statement,formulation,POS,0.63,Skincare,Cream
+Cream D,Brand B,China,Recommended by dermatologists,statement,ingredient,Digital,0.43,Skincare,Cream
+Cream D,Brand B,China,Tested on sensitive skin,statement,ingredient,TVC,0.5,Skincare,Cream
+Cream D,Brand B,China,Recommended by dermatologists,statement,ingredient,POS,0.69,Skincare,Cream
+Lotion E,Brand D,China,Eco-friendly packaging,comparative/superiority,science,POS,0.6,Skincare,Lotion
+Lotion E,Brand D,China,Innovative delivery system,comparative/superiority,emotion,POS,0.89,Skincare,Lotion
+Lotion E,Brand D,China,Smooth skin after 1 week,comparative/superiority,emotion,TVC,0.75,Skincare,Lotion
+Lotion E,Brand D,China,Visible glow immediately,imagery,packaging,PACK,0.43,Skincare,Lotion
+Lotion E,Brand D,China,Instant soothing,comparative/superiority,emotion,TVC,1.0,Skincare,Lotion
+Lotion E,Brand D,China,Glowing skin all day,statement,ingredient,TVC,0.99,Skincare,Lotion
+Lotion E,Brand D,China,Glowing skin all day,statement,consumer perception,TVC,0.94,Skincare,Lotion
+Lotion E,Brand D,China,Reduces fine lines,imagery,sensory,TVC,0.9,Skincare,Lotion
+Lotion E,Brand D,China,More hydration than leading brand,statement,sensory,PACK,0.65,Skincare,Lotion
+Lotion E,Brand D,China,Instant soothing,statement,consumer perception,PACK,0.68,Skincare,Lotion
+Lotion E,Brand D,China,Reduces fine lines,statement,consumer perception,Digital,0.83,Skincare,Lotion
+Lotion E,Brand D,China,Visible results in 7 days,comparative/superiority,formulation,TVC,0.58,Skincare,Lotion
+Lotion E,Brand D,China,Trusted by professionals,imagery,consumer perception,TVC,0.67,Skincare,Lotion
+Lotion E,Brand D,China,Reduces pore appearance,imagery,sensory,Digital,0.41,Skincare,Lotion
+Lotion E,Brand D,China,Clinically proven results,statement,ingredient,POS,0.42,Skincare,Lotion
+Lotion E,Brand D,China,No parabens,imagery,sensory,PACK,0.78,Skincare,Lotion
+Lotion E,Brand D,China,Deep hydration effect,imagery,packaging,TVC,0.38,Skincare,Lotion
+Lotion E,Brand D,China,Innovative delivery system,statement,sensory,Digital,0.99,Skincare,Lotion
+Lotion E,Brand D,China,Visible glow immediately,imagery,science,TVC,0.6,Skincare,Lotion
+Lotion E,Brand D,China,Fast-absorbing texture,imagery,formulation,POS,0.89,Skincare,Lotion
+Lotion E,Brand D,China,Eco-friendly packaging,imagery,packaging,POS,0.89,Skincare,Lotion
+Lotion E,Brand D,China,Tested on sensitive skin,comparative/superiority,emotion,TVC,0.81,Skincare,Lotion
+Lotion E,Brand D,China,Visible results in 7 days,statement,local relevance/safety/sustainability,TVC,0.89,Skincare,Lotion
+Lotion E,Brand D,China,Instant soothing,imagery,local relevance/safety/sustainability,PACK,0.99,Skincare,Lotion
+Lotion E,Brand D,China,Visible results in 7 days,statement,ingredient,TVC,0.78,Skincare,Lotion
+Lotion E,Brand D,China,Innovative delivery system,imagery,formulation,TVC,0.93,Skincare,Lotion
+Lotion E,Brand D,China,Recommended by dermatologists,imagery,formulation,POS,0.97,Skincare,Lotion
+Lotion E,Brand D,China,Reduces pore appearance,comparative/superiority,packaging,POS,0.49,Skincare,Lotion
+Lotion E,Brand D,China,Allergy tested,imagery,clinical/instrumental,POS,0.89,Skincare,Lotion
+Lotion E,Brand D,China,Boosts skin barrier,imagery,shares/sales/R&R/endorsement,PACK,0.31,Skincare,Lotion
+Cream F,Brand A,China,Dermatologist recommended formula,comparative/superiority,clinical/instrumental,POS,0.37,Skincare,Cream
+Cream F,Brand A,China,Dermatologist recommended formula,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.53,Skincare,Cream
+Cream F,Brand A,China,Reduces fine lines,comparative/superiority,ingredient,PACK,0.95,Skincare,Cream
+Cream F,Brand A,China,Visible glow immediately,imagery,local relevance/safety/sustainability,TVC,0.31,Skincare,Cream
+Cream F,Brand A,China,Fragrance-free and gentle,comparative/superiority,packaging,TVC,0.85,Skincare,Cream
+Cream F,Brand A,China,Oil-free formula,comparative/superiority,consumer perception,PACK,0.67,Skincare,Cream
+Cream F,Brand A,China,Glowing skin all day,comparative/superiority,formulation,POS,0.46,Skincare,Cream
+Cream F,Brand A,China,Proven with clinical trial,comparative/superiority,formulation,POS,0.98,Skincare,Cream
+Cream F,Brand A,China,Tested on sensitive skin,comparative/superiority,local relevance/safety/sustainability,PACK,0.71,Skincare,Cream
+Cream F,Brand A,China,Reduces pore appearance,imagery,emotion,POS,0.4,Skincare,Cream
+Cream F,Brand A,China,Fragrance-free and gentle,statement,formulation,TVC,0.33,Skincare,Cream
+Cream F,Brand A,China,Reduces pore appearance,comparative/superiority,science,POS,0.96,Skincare,Cream
+Cream F,Brand A,China,9 out of 10 women agree,imagery,clinical/instrumental,POS,0.4,Skincare,Cream
+Cream F,Brand A,China,Clinically proven results,statement,emotion,POS,0.9,Skincare,Cream
+Cream F,Brand A,China,Smooth skin after 1 week,statement,shares/sales/R&R/endorsement,Digital,0.62,Skincare,Cream
+Cream F,Brand A,China,Reduces pore appearance,imagery,shares/sales/R&R/endorsement,TVC,0.78,Skincare,Cream
+Cream F,Brand A,China,Clinically proven results,comparative/superiority,emotion,POS,0.77,Skincare,Cream
+Cream F,Brand A,China,No parabens,statement,shares/sales/R&R/endorsement,TVC,0.73,Skincare,Cream
+Cream F,Brand A,China,Smooth skin after 1 week,statement,science,Digital,0.85,Skincare,Cream
+Cream F,Brand A,China,Innovative delivery system,comparative/superiority,science,POS,0.84,Skincare,Cream
+Cream F,Brand A,China,Eco-friendly packaging,statement,consumer perception,POS,0.53,Skincare,Cream
+Cream F,Brand A,China,Proven with clinical trial,comparative/superiority,packaging,PACK,0.86,Skincare,Cream
+Cream F,Brand A,China,Trusted by professionals,imagery,clinical/instrumental,PACK,0.74,Skincare,Cream
+Cream F,Brand A,China,Innovative delivery system,comparative/superiority,consumer perception,POS,0.87,Skincare,Cream
+Cream F,Brand A,China,Visible results in 7 days,statement,consumer perception,PACK,0.59,Skincare,Cream
+Cream F,Brand A,China,More hydration than leading brand,comparative/superiority,clinical/instrumental,PACK,0.44,Skincare,Cream
+Cream F,Brand A,China,Pro formula,comparative/superiority,emotion,POS,0.43,Skincare,Cream
+Cream F,Brand A,China,Tested on sensitive skin,statement,clinical/instrumental,Digital,0.5,Skincare,Cream
+Serum G,Brand B,China,Dermatologist recommended formula,comparative/superiority,local relevance/safety/sustainability,Digital,0.7,Skincare,Serum
+Serum G,Brand B,China,Oil-free formula,statement,clinical/instrumental,TVC,0.73,Skincare,Serum
+Serum G,Brand B,China,Proven with clinical trial,statement,consumer perception,TVC,0.61,Skincare,Serum
+Serum G,Brand B,China,Reduces pore appearance,comparative/superiority,emotion,POS,0.89,Skincare,Serum
+Serum G,Brand B,China,Deep hydration effect,statement,ingredient,TVC,0.59,Skincare,Serum
+Serum G,Brand B,China,No parabens,statement,consumer perception,Digital,0.33,Skincare,Serum
+Serum G,Brand B,China,Visible glow immediately,imagery,ingredient,PACK,0.36,Skincare,Serum
+Serum G,Brand B,China,Glowing skin all day,statement,ingredient,PACK,0.63,Skincare,Serum
+Serum G,Brand B,China,More hydration than leading brand,statement,emotion,TVC,0.66,Skincare,Serum
+Serum G,Brand B,China,Eco-friendly packaging,imagery,packaging,PACK,0.4,Skincare,Serum
+Serum G,Brand B,China,Improves skin elasticity,imagery,local relevance/safety/sustainability,POS,0.48,Skincare,Serum
+Serum G,Brand B,China,Reduces pore appearance,comparative/superiority,sensory,PACK,0.72,Skincare,Serum
+Serum G,Brand B,China,Allergy tested,imagery,sensory,TVC,0.66,Skincare,Serum
+Serum G,Brand B,China,Eco-friendly packaging,statement,sensory,TVC,0.52,Skincare,Serum
+Serum G,Brand B,China,More hydration than leading brand,imagery,ingredient,TVC,0.71,Skincare,Serum
+Serum G,Brand B,China,9 out of 10 women agree,comparative/superiority,science,POS,0.61,Skincare,Serum
+Serum G,Brand B,China,Instant soothing,comparative/superiority,ingredient,POS,0.56,Skincare,Serum
+Serum G,Brand B,China,9 out of 10 women agree,imagery,emotion,POS,0.44,Skincare,Serum
+Serum G,Brand B,China,More hydration than leading brand,imagery,shares/sales/R&R/endorsement,Digital,0.53,Skincare,Serum
+Serum G,Brand B,China,Dermatologist recommended formula,comparative/superiority,formulation,Digital,0.98,Skincare,Serum
+Serum G,Brand B,China,Eco-friendly packaging,imagery,formulation,PACK,0.66,Skincare,Serum
+Serum G,Brand B,China,Visible glow immediately,imagery,science,PACK,0.56,Skincare,Serum
+Serum G,Brand B,China,Reduces fine lines,imagery,emotion,PACK,0.82,Skincare,Serum
+Serum G,Brand B,China,Fragrance-free and gentle,statement,sensory,Digital,0.34,Skincare,Serum
+Serum G,Brand B,China,Oil-free formula,comparative/superiority,ingredient,Digital,0.88,Skincare,Serum
+Serum G,Brand B,China,Visible glow immediately,comparative/superiority,formulation,PACK,0.79,Skincare,Serum
+Serum G,Brand B,China,Improves skin elasticity,comparative/superiority,formulation,POS,0.59,Skincare,Serum
+Serum G,Brand B,China,Innovative delivery system,imagery,ingredient,POS,0.31,Skincare,Serum
+Serum G,Brand B,China,Improves skin elasticity,statement,emotion,POS,0.88,Skincare,Serum
+Serum G,Brand B,China,Glowing skin all day,imagery,packaging,TVC,0.87,Skincare,Serum
+Serum H,Brand B,China,Tested on sensitive skin,imagery,packaging,TVC,0.69,Skincare,Serum
+Serum H,Brand B,China,Smooth skin after 1 week,imagery,local relevance/safety/sustainability,POS,0.41,Skincare,Serum
+Serum H,Brand B,China,Pro formula,statement,sensory,TVC,0.45,Skincare,Serum
+Serum H,Brand B,China,Instant soothing,imagery,sensory,TVC,0.66,Skincare,Serum
+Serum H,Brand B,China,Smooth skin after 1 week,imagery,emotion,Digital,0.73,Skincare,Serum
+Serum H,Brand B,China,Dermatologist recommended formula,statement,shares/sales/R&R/endorsement,Digital,0.7,Skincare,Serum
+Serum H,Brand B,China,Visible results in 7 days,imagery,packaging,POS,0.74,Skincare,Serum
+Serum H,Brand B,China,More hydration than leading brand,imagery,clinical/instrumental,PACK,0.39,Skincare,Serum
+Serum H,Brand B,China,Fast-absorbing texture,statement,clinical/instrumental,Digital,0.43,Skincare,Serum
+Serum H,Brand B,China,No parabens,imagery,science,Digital,0.4,Skincare,Serum
+Serum H,Brand B,China,Glowing skin all day,statement,consumer perception,POS,0.99,Skincare,Serum
+Serum H,Brand B,China,Non-comedogenic,statement,sensory,TVC,0.79,Skincare,Serum
+Serum H,Brand B,China,No parabens,imagery,science,TVC,0.52,Skincare,Serum
+Serum H,Brand B,China,Smooth skin after 1 week,statement,clinical/instrumental,POS,0.4,Skincare,Serum
+Serum H,Brand B,China,Visible glow immediately,comparative/superiority,local relevance/safety/sustainability,PACK,0.58,Skincare,Serum
+Serum H,Brand B,China,Recommended by dermatologists,statement,consumer perception,PACK,0.65,Skincare,Serum
+Serum H,Brand B,China,Boosts skin barrier,comparative/superiority,clinical/instrumental,PACK,0.75,Skincare,Serum
+Serum H,Brand B,China,Reduces fine lines,imagery,consumer perception,PACK,0.56,Skincare,Serum
+Serum H,Brand B,China,Boosts skin barrier,statement,clinical/instrumental,POS,0.8,Skincare,Serum
+Serum H,Brand B,China,Visible glow immediately,imagery,formulation,Digital,0.45,Skincare,Serum
+Serum H,Brand B,China,Pro formula,imagery,local relevance/safety/sustainability,Digital,0.81,Skincare,Serum
+Serum H,Brand B,China,Smooth skin after 1 week,imagery,science,PACK,0.6,Skincare,Serum
+Serum H,Brand B,China,Deep hydration effect,statement,shares/sales/R&R/endorsement,POS,0.81,Skincare,Serum
+Serum H,Brand B,China,Reduces fine lines,statement,sensory,PACK,0.49,Skincare,Serum
+Serum H,Brand B,China,Allergy tested,statement,emotion,POS,0.33,Skincare,Serum
+Serum H,Brand B,China,Clinically proven results,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.3,Skincare,Serum
+Serum H,Brand B,China,Deep hydration effect,imagery,packaging,POS,0.81,Skincare,Serum
+Serum H,Brand B,China,Smooth skin after 1 week,statement,ingredient,TVC,0.51,Skincare,Serum
+Serum I,Brand D,China,Smooth skin after 1 week,imagery,shares/sales/R&R/endorsement,POS,0.94,Skincare,Serum
+Serum I,Brand D,China,98% natural ingredients,comparative/superiority,consumer perception,PACK,0.38,Skincare,Serum
+Serum I,Brand D,China,Proven with clinical trial,comparative/superiority,ingredient,PACK,0.62,Skincare,Serum
+Serum I,Brand D,China,Sustainable packaging,imagery,packaging,TVC,0.66,Skincare,Serum
+Serum I,Brand D,China,Improves skin elasticity,imagery,shares/sales/R&R/endorsement,POS,0.66,Skincare,Serum
+Serum I,Brand D,China,Recommended by dermatologists,comparative/superiority,formulation,TVC,0.38,Skincare,Serum
+Serum I,Brand D,China,Innovative delivery system,comparative/superiority,packaging,POS,0.45,Skincare,Serum
+Serum I,Brand D,China,Reduces pore appearance,imagery,local relevance/safety/sustainability,POS,0.31,Skincare,Serum
+Serum I,Brand D,China,9 out of 10 women agree,imagery,local relevance/safety/sustainability,PACK,0.74,Skincare,Serum
+Serum I,Brand D,China,Reduces fine lines,comparative/superiority,emotion,PACK,0.61,Skincare,Serum
+Serum I,Brand D,China,Proven with clinical trial,statement,ingredient,TVC,0.59,Skincare,Serum
+Serum I,Brand D,China,Instant soothing,imagery,consumer perception,TVC,0.37,Skincare,Serum
+Serum I,Brand D,China,Non-comedogenic,statement,clinical/instrumental,PACK,0.41,Skincare,Serum
+Serum I,Brand D,China,9 out of 10 women agree,imagery,science,Digital,0.97,Skincare,Serum
+Serum I,Brand D,China,Reduces fine lines,comparative/superiority,ingredient,PACK,0.91,Skincare,Serum
+Serum I,Brand D,China,Deep hydration effect,comparative/superiority,ingredient,PACK,0.63,Skincare,Serum
+Serum I,Brand D,China,Smooth skin after 1 week,comparative/superiority,clinical/instrumental,PACK,0.51,Skincare,Serum
+Serum I,Brand D,China,Tested on sensitive skin,comparative/superiority,emotion,TVC,0.87,Skincare,Serum
+Serum I,Brand D,China,Trusted by professionals,imagery,formulation,POS,0.5,Skincare,Serum
+Serum I,Brand D,China,No parabens,comparative/superiority,formulation,POS,0.31,Skincare,Serum
+Serum I,Brand D,China,Eco-friendly packaging,imagery,science,TVC,0.59,Skincare,Serum
+Serum I,Brand D,China,Pro formula,comparative/superiority,consumer perception,Digital,0.7,Skincare,Serum
+Serum I,Brand D,China,Improves skin elasticity,comparative/superiority,local relevance/safety/sustainability,PACK,0.69,Skincare,Serum
+Serum I,Brand D,China,Eco-friendly packaging,imagery,local relevance/safety/sustainability,TVC,0.32,Skincare,Serum
+Serum I,Brand D,China,Recommended by dermatologists,statement,consumer perception,TVC,0.77,Skincare,Serum
+Serum I,Brand D,China,No parabens,comparative/superiority,formulation,POS,0.37,Skincare,Serum
+Serum I,Brand D,China,Oil-free formula,imagery,packaging,Digital,0.63,Skincare,Serum
+Serum I,Brand D,China,Fast-absorbing texture,statement,consumer perception,Digital,0.69,Skincare,Serum
+Serum I,Brand D,China,Clinically proven results,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.46,Skincare,Serum
+Lotion J,Brand A,China,Clinically proven results,statement,emotion,TVC,0.51,Skincare,Lotion
+Lotion J,Brand A,China,Eco-friendly packaging,comparative/superiority,consumer perception,POS,0.54,Skincare,Lotion
+Lotion J,Brand A,China,Dermatologist recommended formula,statement,local relevance/safety/sustainability,TVC,0.49,Skincare,Lotion
+Lotion J,Brand A,China,Proven with clinical trial,imagery,emotion,TVC,0.95,Skincare,Lotion
+Lotion J,Brand A,China,Tested on sensitive skin,statement,shares/sales/R&R/endorsement,POS,0.57,Skincare,Lotion
+Lotion J,Brand A,China,Clinically proven results,comparative/superiority,formulation,Digital,0.74,Skincare,Lotion
+Lotion J,Brand A,China,Instant soothing,statement,local relevance/safety/sustainability,POS,0.75,Skincare,Lotion
+Lotion J,Brand A,China,More hydration than leading brand,statement,science,POS,0.71,Skincare,Lotion
+Lotion J,Brand A,China,Non-comedogenic,imagery,shares/sales/R&R/endorsement,TVC,0.79,Skincare,Lotion
+Lotion J,Brand A,China,Instant soothing,imagery,science,TVC,0.4,Skincare,Lotion
+Lotion J,Brand A,China,Allergy tested,imagery,formulation,Digital,0.32,Skincare,Lotion
+Lotion J,Brand A,China,Non-comedogenic,comparative/superiority,emotion,Digital,0.63,Skincare,Lotion
+Lotion J,Brand A,China,9 out of 10 women agree,statement,emotion,PACK,0.59,Skincare,Lotion
+Lotion J,Brand A,China,Glowing skin all day,comparative/superiority,packaging,PACK,0.86,Skincare,Lotion
+Lotion J,Brand A,China,Visible results in 7 days,imagery,local relevance/safety/sustainability,PACK,0.89,Skincare,Lotion
+Lotion J,Brand A,China,Innovative delivery system,imagery,consumer perception,Digital,0.65,Skincare,Lotion
+Lotion J,Brand A,China,Instant soothing,imagery,shares/sales/R&R/endorsement,TVC,0.93,Skincare,Lotion
+Lotion J,Brand A,China,Pro formula,statement,consumer perception,POS,0.57,Skincare,Lotion
+Lotion J,Brand A,China,Visible results in 7 days,comparative/superiority,formulation,Digital,0.96,Skincare,Lotion
+Lotion J,Brand A,China,Tested on sensitive skin,comparative/superiority,science,TVC,0.82,Skincare,Lotion
+Lotion J,Brand A,China,Oil-free formula,statement,emotion,POS,0.77,Skincare,Lotion
+Lotion J,Brand A,China,Recommended by dermatologists,imagery,sensory,POS,0.51,Skincare,Lotion
+Lotion J,Brand A,China,Reduces pore appearance,comparative/superiority,consumer perception,PACK,0.69,Skincare,Lotion
+Lotion J,Brand A,China,Deep hydration effect,statement,clinical/instrumental,TVC,0.95,Skincare,Lotion
+Lotion J,Brand A,China,Allergy tested,comparative/superiority,ingredient,PACK,0.32,Skincare,Lotion
+Lotion J,Brand A,China,Deep hydration effect,statement,clinical/instrumental,PACK,0.47,Skincare,Lotion
+Toner A,Brand D,France,Reduces pore appearance,imagery,emotion,TVC,0.42,Skincare,Toner
+Toner A,Brand D,France,Visible results in 7 days,statement,science,POS,0.46,Skincare,Toner
+Toner A,Brand D,France,Innovative delivery system,comparative/superiority,science,PACK,0.65,Skincare,Toner
+Toner A,Brand D,France,Reduces pore appearance,comparative/superiority,local relevance/safety/sustainability,TVC,0.93,Skincare,Toner
+Toner A,Brand D,France,Proven with clinical trial,comparative/superiority,sensory,Digital,0.53,Skincare,Toner
+Toner A,Brand D,France,Deep hydration effect,statement,local relevance/safety/sustainability,Digital,0.66,Skincare,Toner
+Toner A,Brand D,France,Trusted by professionals,comparative/superiority,emotion,PACK,0.54,Skincare,Toner
+Toner A,Brand D,France,Deep hydration effect,statement,sensory,Digital,0.93,Skincare,Toner
+Toner A,Brand D,France,Sustainable packaging,statement,sensory,Digital,0.68,Skincare,Toner
+Toner A,Brand D,France,No parabens,imagery,emotion,PACK,0.72,Skincare,Toner
+Toner A,Brand D,France,Visible results in 7 days,statement,ingredient,Digital,0.43,Skincare,Toner
+Toner A,Brand D,France,Fast-absorbing texture,statement,consumer perception,POS,0.72,Skincare,Toner
+Toner A,Brand D,France,Proven with clinical trial,statement,sensory,POS,0.41,Skincare,Toner
+Toner A,Brand D,France,Pro formula,statement,sensory,POS,0.5,Skincare,Toner
+Toner A,Brand D,France,No parabens,imagery,formulation,TVC,0.55,Skincare,Toner
+Toner A,Brand D,France,Proven with clinical trial,imagery,consumer perception,TVC,0.33,Skincare,Toner
+Toner A,Brand D,France,Tested on sensitive skin,comparative/superiority,local relevance/safety/sustainability,TVC,0.96,Skincare,Toner
+Toner A,Brand D,France,Fragrance-free and gentle,imagery,shares/sales/R&R/endorsement,Digital,0.53,Skincare,Toner
+Toner A,Brand D,France,No parabens,imagery,local relevance/safety/sustainability,POS,0.59,Skincare,Toner
+Toner A,Brand D,France,Boosts skin barrier,imagery,emotion,Digital,0.53,Skincare,Toner
+Toner A,Brand D,France,Boosts skin barrier,imagery,science,PACK,0.59,Skincare,Toner
+Toner A,Brand D,France,Pro formula,comparative/superiority,packaging,POS,0.4,Skincare,Toner
+Toner A,Brand D,France,Tested on sensitive skin,statement,science,PACK,0.39,Skincare,Toner
+Toner A,Brand D,France,Proven with clinical trial,imagery,formulation,TVC,0.59,Skincare,Toner
+Toner A,Brand D,France,Visible glow immediately,statement,emotion,TVC,0.58,Skincare,Toner
+Toner B,Brand B,France,Instant soothing,comparative/superiority,clinical/instrumental,POS,0.83,Skincare,Toner
+Toner B,Brand B,France,Reduces fine lines,statement,packaging,Digital,0.32,Skincare,Toner
+Toner B,Brand B,France,Visible glow immediately,comparative/superiority,sensory,Digital,0.61,Skincare,Toner
+Toner B,Brand B,France,Visible results in 7 days,comparative/superiority,sensory,PACK,0.64,Skincare,Toner
+Toner B,Brand B,France,Glowing skin all day,statement,clinical/instrumental,POS,0.78,Skincare,Toner
+Toner B,Brand B,France,Recommended by dermatologists,comparative/superiority,clinical/instrumental,POS,0.47,Skincare,Toner
+Toner B,Brand B,France,Tested on sensitive skin,comparative/superiority,consumer perception,Digital,0.47,Skincare,Toner
+Toner B,Brand B,France,Boosts skin barrier,comparative/superiority,packaging,TVC,0.45,Skincare,Toner
+Toner B,Brand B,France,More hydration than leading brand,imagery,formulation,PACK,0.32,Skincare,Toner
+Toner B,Brand B,France,Deep hydration effect,comparative/superiority,sensory,POS,0.54,Skincare,Toner
+Toner B,Brand B,France,Instant soothing,statement,shares/sales/R&R/endorsement,PACK,0.82,Skincare,Toner
+Toner B,Brand B,France,Non-comedogenic,comparative/superiority,ingredient,Digital,0.83,Skincare,Toner
+Toner B,Brand B,France,Tested on sensitive skin,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.83,Skincare,Toner
+Toner B,Brand B,France,Recommended by dermatologists,comparative/superiority,sensory,PACK,0.6,Skincare,Toner
+Toner B,Brand B,France,Allergy tested,imagery,clinical/instrumental,Digital,0.86,Skincare,Toner
+Toner B,Brand B,France,Reduces pore appearance,comparative/superiority,local relevance/safety/sustainability,Digital,0.55,Skincare,Toner
+Toner B,Brand B,France,Glowing skin all day,comparative/superiority,local relevance/safety/sustainability,PACK,0.95,Skincare,Toner
+Toner B,Brand B,France,Sustainable packaging,statement,shares/sales/R&R/endorsement,Digital,0.59,Skincare,Toner
+Toner B,Brand B,France,Boosts skin barrier,imagery,packaging,POS,0.3,Skincare,Toner
+Toner B,Brand B,France,Non-comedogenic,statement,sensory,Digital,0.72,Skincare,Toner
+Toner B,Brand B,France,Pro formula,statement,packaging,Digital,0.57,Skincare,Toner
+Toner B,Brand B,France,Visible glow immediately,statement,ingredient,TVC,0.31,Skincare,Toner
+Toner B,Brand B,France,Glowing skin all day,comparative/superiority,packaging,PACK,0.94,Skincare,Toner
+Toner B,Brand B,France,Fast-absorbing texture,imagery,packaging,Digital,0.82,Skincare,Toner
+Toner B,Brand B,France,Deep hydration effect,imagery,sensory,POS,0.47,Skincare,Toner
+Serum C,Brand B,France,Non-comedogenic,comparative/superiority,emotion,Digital,0.42,Skincare,Serum
+Serum C,Brand B,France,Proven with clinical trial,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.91,Skincare,Serum
+Serum C,Brand B,France,Fast-absorbing texture,comparative/superiority,local relevance/safety/sustainability,Digital,0.76,Skincare,Serum
+Serum C,Brand B,France,Reduces fine lines,statement,science,TVC,0.52,Skincare,Serum
+Serum C,Brand B,France,9 out of 10 women agree,imagery,formulation,POS,0.93,Skincare,Serum
+Serum C,Brand B,France,98% natural ingredients,statement,clinical/instrumental,PACK,0.36,Skincare,Serum
+Serum C,Brand B,France,Non-comedogenic,statement,consumer perception,PACK,0.6,Skincare,Serum
+Serum C,Brand B,France,Tested on sensitive skin,comparative/superiority,shares/sales/R&R/endorsement,POS,0.9,Skincare,Serum
+Serum C,Brand B,France,Pro formula,comparative/superiority,consumer perception,Digital,0.46,Skincare,Serum
+Serum C,Brand B,France,Visible results in 7 days,comparative/superiority,sensory,POS,0.68,Skincare,Serum
+Serum C,Brand B,France,Reduces fine lines,statement,emotion,PACK,0.36,Skincare,Serum
+Serum C,Brand B,France,Dermatologist recommended formula,statement,shares/sales/R&R/endorsement,Digital,0.69,Skincare,Serum
+Serum C,Brand B,France,Clinically proven results,comparative/superiority,clinical/instrumental,PACK,0.88,Skincare,Serum
+Serum C,Brand B,France,Non-comedogenic,statement,ingredient,TVC,0.85,Skincare,Serum
+Serum C,Brand B,France,Trusted by professionals,comparative/superiority,formulation,Digital,0.96,Skincare,Serum
+Serum C,Brand B,France,Sustainable packaging,imagery,clinical/instrumental,Digital,0.36,Skincare,Serum
+Serum C,Brand B,France,Reduces fine lines,statement,ingredient,TVC,0.37,Skincare,Serum
+Serum C,Brand B,France,Visible results in 7 days,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.35,Skincare,Serum
+Serum C,Brand B,France,Improves skin elasticity,statement,consumer perception,TVC,0.93,Skincare,Serum
+Serum C,Brand B,France,Smooth skin after 1 week,statement,formulation,Digital,0.64,Skincare,Serum
+Serum C,Brand B,France,Sustainable packaging,statement,consumer perception,Digital,0.53,Skincare,Serum
+Serum C,Brand B,France,Boosts skin barrier,imagery,packaging,Digital,0.86,Skincare,Serum
+Serum C,Brand B,France,Smooth skin after 1 week,comparative/superiority,local relevance/safety/sustainability,TVC,0.52,Skincare,Serum
+Serum C,Brand B,France,Non-comedogenic,statement,shares/sales/R&R/endorsement,PACK,0.56,Skincare,Serum
+Serum C,Brand B,France,Tested on sensitive skin,statement,packaging,Digital,0.55,Skincare,Serum
+Serum C,Brand B,France,Glowing skin all day,statement,science,POS,0.96,Skincare,Serum
+Serum C,Brand B,France,Improves skin elasticity,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.46,Skincare,Serum
+Serum C,Brand B,France,98% natural ingredients,imagery,sensory,POS,0.37,Skincare,Serum
+Serum D,Brand B,France,Fragrance-free and gentle,imagery,sensory,Digital,0.39,Skincare,Serum
+Serum D,Brand B,France,98% natural ingredients,comparative/superiority,science,TVC,0.48,Skincare,Serum
+Serum D,Brand B,France,More hydration than leading brand,comparative/superiority,sensory,TVC,0.49,Skincare,Serum
+Serum D,Brand B,France,9 out of 10 women agree,imagery,shares/sales/R&R/endorsement,TVC,0.85,Skincare,Serum
+Serum D,Brand B,France,Non-comedogenic,imagery,sensory,POS,0.91,Skincare,Serum
+Serum D,Brand B,France,Visible results in 7 days,comparative/superiority,formulation,Digital,0.58,Skincare,Serum
+Serum D,Brand B,France,Proven with clinical trial,comparative/superiority,sensory,TVC,0.89,Skincare,Serum
+Serum D,Brand B,France,Deep hydration effect,comparative/superiority,packaging,POS,0.83,Skincare,Serum
+Serum D,Brand B,France,Trusted by professionals,statement,formulation,PACK,0.38,Skincare,Serum
+Serum D,Brand B,France,Reduces fine lines,statement,shares/sales/R&R/endorsement,PACK,0.93,Skincare,Serum
+Serum D,Brand B,France,Eco-friendly packaging,imagery,formulation,TVC,0.89,Skincare,Serum
+Serum D,Brand B,France,Proven with clinical trial,imagery,emotion,POS,0.38,Skincare,Serum
+Serum D,Brand B,France,Instant soothing,comparative/superiority,sensory,POS,0.65,Skincare,Serum
+Serum D,Brand B,France,No parabens,comparative/superiority,packaging,PACK,0.46,Skincare,Serum
+Serum D,Brand B,France,Non-comedogenic,statement,ingredient,POS,0.92,Skincare,Serum
+Serum D,Brand B,France,Fast-absorbing texture,imagery,emotion,TVC,0.77,Skincare,Serum
+Serum D,Brand B,France,Reduces pore appearance,comparative/superiority,emotion,POS,0.8,Skincare,Serum
+Serum D,Brand B,France,Proven with clinical trial,comparative/superiority,ingredient,PACK,0.76,Skincare,Serum
+Serum D,Brand B,France,Smooth skin after 1 week,imagery,packaging,POS,0.98,Skincare,Serum
+Serum D,Brand B,France,Innovative delivery system,comparative/superiority,local relevance/safety/sustainability,TVC,0.6,Skincare,Serum
+Serum D,Brand B,France,Dermatologist recommended formula,statement,local relevance/safety/sustainability,POS,0.5,Skincare,Serum
+Serum D,Brand B,France,Innovative delivery system,statement,local relevance/safety/sustainability,Digital,0.95,Skincare,Serum
+Serum D,Brand B,France,More hydration than leading brand,comparative/superiority,sensory,POS,0.71,Skincare,Serum
+Serum D,Brand B,France,Visible glow immediately,statement,packaging,POS,0.69,Skincare,Serum
+Serum D,Brand B,France,Instant soothing,statement,consumer perception,Digital,0.88,Skincare,Serum
+Toner E,Brand C,France,Pro formula,comparative/superiority,emotion,Digital,0.84,Skincare,Toner
+Toner E,Brand C,France,9 out of 10 women agree,imagery,emotion,PACK,0.83,Skincare,Toner
+Toner E,Brand C,France,Smooth skin after 1 week,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.44,Skincare,Toner
+Toner E,Brand C,France,Reduces pore appearance,statement,science,POS,0.85,Skincare,Toner
+Toner E,Brand C,France,Trusted by professionals,imagery,shares/sales/R&R/endorsement,Digital,0.93,Skincare,Toner
+Toner E,Brand C,France,Innovative delivery system,imagery,sensory,PACK,0.5,Skincare,Toner
+Toner E,Brand C,France,Clinically proven results,imagery,sensory,PACK,0.42,Skincare,Toner
+Toner E,Brand C,France,Pro formula,imagery,clinical/instrumental,TVC,0.49,Skincare,Toner
+Toner E,Brand C,France,Improves skin elasticity,comparative/superiority,formulation,POS,0.5,Skincare,Toner
+Toner E,Brand C,France,More hydration than leading brand,statement,emotion,PACK,0.8,Skincare,Toner
+Toner E,Brand C,France,Visible results in 7 days,comparative/superiority,ingredient,Digital,0.42,Skincare,Toner
+Toner E,Brand C,France,More hydration than leading brand,statement,clinical/instrumental,Digital,0.95,Skincare,Toner
+Toner E,Brand C,France,Sustainable packaging,statement,local relevance/safety/sustainability,POS,0.63,Skincare,Toner
+Toner E,Brand C,France,Oil-free formula,imagery,shares/sales/R&R/endorsement,POS,0.86,Skincare,Toner
+Toner E,Brand C,France,98% natural ingredients,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.88,Skincare,Toner
+Toner E,Brand C,France,Deep hydration effect,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.39,Skincare,Toner
+Toner E,Brand C,France,Glowing skin all day,imagery,local relevance/safety/sustainability,TVC,0.31,Skincare,Toner
+Toner E,Brand C,France,Reduces pore appearance,imagery,local relevance/safety/sustainability,PACK,0.76,Skincare,Toner
+Toner E,Brand C,France,Eco-friendly packaging,imagery,consumer perception,POS,0.77,Skincare,Toner
+Toner E,Brand C,France,More hydration than leading brand,statement,ingredient,POS,0.78,Skincare,Toner
+Toner E,Brand C,France,98% natural ingredients,statement,local relevance/safety/sustainability,Digital,0.97,Skincare,Toner
+Toner E,Brand C,France,Allergy tested,imagery,sensory,Digital,0.61,Skincare,Toner
+Toner E,Brand C,France,Reduces pore appearance,imagery,emotion,Digital,0.61,Skincare,Toner
+Toner E,Brand C,France,Deep hydration effect,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.72,Skincare,Toner
+Toner E,Brand C,France,Reduces fine lines,imagery,shares/sales/R&R/endorsement,POS,0.42,Skincare,Toner
+Toner E,Brand C,France,Recommended by dermatologists,statement,ingredient,TVC,0.85,Skincare,Toner
+Toner E,Brand C,France,Oil-free formula,statement,ingredient,PACK,0.76,Skincare,Toner
+Toner E,Brand C,France,Boosts skin barrier,comparative/superiority,formulation,PACK,0.82,Skincare,Toner
+Toner E,Brand C,France,Smooth skin after 1 week,statement,science,POS,0.31,Skincare,Toner
+Cream F,Brand C,France,More hydration than leading brand,statement,local relevance/safety/sustainability,PACK,0.56,Skincare,Cream
+Cream F,Brand C,France,Proven with clinical trial,statement,sensory,POS,0.72,Skincare,Cream
+Cream F,Brand C,France,Visible glow immediately,statement,formulation,TVC,0.38,Skincare,Cream
+Cream F,Brand C,France,Eco-friendly packaging,imagery,sensory,POS,0.45,Skincare,Cream
+Cream F,Brand C,France,Instant soothing,statement,science,TVC,0.96,Skincare,Cream
+Cream F,Brand C,France,Glowing skin all day,imagery,clinical/instrumental,TVC,0.37,Skincare,Cream
+Cream F,Brand C,France,More hydration than leading brand,statement,shares/sales/R&R/endorsement,TVC,0.71,Skincare,Cream
+Cream F,Brand C,France,Fast-absorbing texture,imagery,shares/sales/R&R/endorsement,Digital,0.81,Skincare,Cream
+Cream F,Brand C,France,9 out of 10 women agree,imagery,packaging,TVC,0.96,Skincare,Cream
+Cream F,Brand C,France,Reduces fine lines,comparative/superiority,emotion,PACK,0.98,Skincare,Cream
+Cream F,Brand C,France,Allergy tested,statement,sensory,PACK,0.46,Skincare,Cream
+Cream F,Brand C,France,Fragrance-free and gentle,statement,local relevance/safety/sustainability,TVC,0.45,Skincare,Cream
+Cream F,Brand C,France,Allergy tested,comparative/superiority,shares/sales/R&R/endorsement,POS,0.69,Skincare,Cream
+Cream F,Brand C,France,Fragrance-free and gentle,statement,packaging,Digital,0.58,Skincare,Cream
+Cream F,Brand C,France,98% natural ingredients,statement,packaging,POS,0.97,Skincare,Cream
+Cream F,Brand C,France,Oil-free formula,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.48,Skincare,Cream
+Cream F,Brand C,France,Trusted by professionals,statement,packaging,PACK,0.98,Skincare,Cream
+Cream F,Brand C,France,Trusted by professionals,comparative/superiority,ingredient,TVC,0.57,Skincare,Cream
+Cream F,Brand C,France,Fast-absorbing texture,imagery,shares/sales/R&R/endorsement,POS,0.36,Skincare,Cream
+Cream F,Brand C,France,Allergy tested,imagery,shares/sales/R&R/endorsement,PACK,0.62,Skincare,Cream
+Cream F,Brand C,France,Fragrance-free and gentle,comparative/superiority,emotion,Digital,0.32,Skincare,Cream
+Cream F,Brand C,France,Visible results in 7 days,imagery,consumer perception,POS,0.4,Skincare,Cream
+Cream F,Brand C,France,Trusted by professionals,statement,sensory,PACK,0.68,Skincare,Cream
+Cream F,Brand C,France,Trusted by professionals,statement,consumer perception,POS,0.65,Skincare,Cream
+Cream F,Brand C,France,Oil-free formula,imagery,shares/sales/R&R/endorsement,PACK,0.61,Skincare,Cream
+Toner G,Brand D,France,Fast-absorbing texture,statement,formulation,Digital,0.38,Skincare,Toner
+Toner G,Brand D,France,Smooth skin after 1 week,statement,science,TVC,0.48,Skincare,Toner
+Toner G,Brand D,France,Deep hydration effect,statement,local relevance/safety/sustainability,POS,0.84,Skincare,Toner
+Toner G,Brand D,France,Clinically proven results,statement,local relevance/safety/sustainability,TVC,0.33,Skincare,Toner
+Toner G,Brand D,France,Allergy tested,imagery,emotion,Digital,0.5,Skincare,Toner
+Toner G,Brand D,France,Allergy tested,comparative/superiority,emotion,PACK,0.96,Skincare,Toner
+Toner G,Brand D,France,Visible results in 7 days,statement,shares/sales/R&R/endorsement,Digital,0.89,Skincare,Toner
+Toner G,Brand D,France,Visible glow immediately,comparative/superiority,consumer perception,TVC,0.53,Skincare,Toner
+Toner G,Brand D,France,Reduces pore appearance,comparative/superiority,science,PACK,0.32,Skincare,Toner
+Toner G,Brand D,France,Eco-friendly packaging,statement,clinical/instrumental,POS,0.48,Skincare,Toner
+Toner G,Brand D,France,Non-comedogenic,statement,packaging,Digital,0.75,Skincare,Toner
+Toner G,Brand D,France,Instant soothing,statement,local relevance/safety/sustainability,POS,0.79,Skincare,Toner
+Toner G,Brand D,France,Improves skin elasticity,imagery,consumer perception,POS,0.67,Skincare,Toner
+Toner G,Brand D,France,Reduces fine lines,statement,clinical/instrumental,PACK,0.31,Skincare,Toner
+Toner G,Brand D,France,Allergy tested,statement,emotion,PACK,0.93,Skincare,Toner
+Toner G,Brand D,France,Allergy tested,statement,clinical/instrumental,TVC,0.94,Skincare,Toner
+Toner G,Brand D,France,More hydration than leading brand,statement,local relevance/safety/sustainability,PACK,0.63,Skincare,Toner
+Toner G,Brand D,France,Boosts skin barrier,imagery,science,PACK,0.75,Skincare,Toner
+Toner G,Brand D,France,Improves skin elasticity,statement,local relevance/safety/sustainability,POS,0.61,Skincare,Toner
+Toner G,Brand D,France,Sustainable packaging,statement,shares/sales/R&R/endorsement,PACK,0.33,Skincare,Toner
+Toner G,Brand D,France,Instant soothing,statement,emotion,POS,0.86,Skincare,Toner
+Toner G,Brand D,France,Non-comedogenic,comparative/superiority,science,Digital,0.79,Skincare,Toner
+Toner G,Brand D,France,Visible results in 7 days,comparative/superiority,packaging,TVC,0.74,Skincare,Toner
+Toner G,Brand D,France,Smooth skin after 1 week,comparative/superiority,formulation,POS,0.41,Skincare,Toner
+Toner G,Brand D,France,Non-comedogenic,imagery,consumer perception,PACK,0.94,Skincare,Toner
+Toner G,Brand D,France,Non-comedogenic,comparative/superiority,local relevance/safety/sustainability,PACK,0.32,Skincare,Toner
+Toner G,Brand D,France,Oil-free formula,comparative/superiority,emotion,TVC,0.5,Skincare,Toner
+Toner G,Brand D,France,Visible glow immediately,comparative/superiority,sensory,POS,0.4,Skincare,Toner
+Serum H,Brand A,France,Smooth skin after 1 week,comparative/superiority,formulation,PACK,0.91,Skincare,Serum
+Serum H,Brand A,France,9 out of 10 women agree,imagery,clinical/instrumental,TVC,0.77,Skincare,Serum
+Serum H,Brand A,France,Instant soothing,statement,local relevance/safety/sustainability,TVC,0.49,Skincare,Serum
+Serum H,Brand A,France,Trusted by professionals,imagery,local relevance/safety/sustainability,TVC,0.79,Skincare,Serum
+Serum H,Brand A,France,Sustainable packaging,statement,ingredient,POS,0.63,Skincare,Serum
+Serum H,Brand A,France,No parabens,comparative/superiority,emotion,POS,0.84,Skincare,Serum
+Serum H,Brand A,France,More hydration than leading brand,imagery,emotion,Digital,0.81,Skincare,Serum
+Serum H,Brand A,France,Visible glow immediately,comparative/superiority,ingredient,Digital,0.93,Skincare,Serum
+Serum H,Brand A,France,Fast-absorbing texture,imagery,local relevance/safety/sustainability,TVC,0.34,Skincare,Serum
+Serum H,Brand A,France,Improves skin elasticity,imagery,emotion,TVC,0.49,Skincare,Serum
+Serum H,Brand A,France,Instant soothing,imagery,sensory,POS,0.49,Skincare,Serum
+Serum H,Brand A,France,Trusted by professionals,statement,formulation,Digital,0.5,Skincare,Serum
+Serum H,Brand A,France,Visible glow immediately,statement,local relevance/safety/sustainability,PACK,0.89,Skincare,Serum
+Serum H,Brand A,France,98% natural ingredients,comparative/superiority,clinical/instrumental,POS,0.79,Skincare,Serum
+Serum H,Brand A,France,Glowing skin all day,imagery,clinical/instrumental,TVC,0.61,Skincare,Serum
+Serum H,Brand A,France,Reduces pore appearance,imagery,local relevance/safety/sustainability,Digital,0.41,Skincare,Serum
+Serum H,Brand A,France,More hydration than leading brand,statement,consumer perception,TVC,0.54,Skincare,Serum
+Serum H,Brand A,France,Recommended by dermatologists,statement,consumer perception,Digital,0.51,Skincare,Serum
+Serum H,Brand A,France,Visible results in 7 days,comparative/superiority,ingredient,Digital,0.67,Skincare,Serum
+Serum H,Brand A,France,Innovative delivery system,imagery,packaging,PACK,0.42,Skincare,Serum
+Serum H,Brand A,France,Smooth skin after 1 week,comparative/superiority,ingredient,PACK,0.3,Skincare,Serum
+Serum H,Brand A,France,Recommended by dermatologists,statement,shares/sales/R&R/endorsement,POS,0.53,Skincare,Serum
+Serum H,Brand A,France,Boosts skin barrier,statement,shares/sales/R&R/endorsement,TVC,0.31,Skincare,Serum
+Serum H,Brand A,France,Visible results in 7 days,imagery,shares/sales/R&R/endorsement,Digital,0.96,Skincare,Serum
+Serum H,Brand A,France,Glowing skin all day,comparative/superiority,packaging,POS,0.87,Skincare,Serum
+Toner I,Brand C,France,Fragrance-free and gentle,imagery,sensory,Digital,0.78,Skincare,Toner
+Toner I,Brand C,France,Non-comedogenic,comparative/superiority,science,PACK,0.47,Skincare,Toner
+Toner I,Brand C,France,Instant soothing,comparative/superiority,ingredient,PACK,0.94,Skincare,Toner
+Toner I,Brand C,France,Proven with clinical trial,imagery,ingredient,TVC,0.89,Skincare,Toner
+Toner I,Brand C,France,Innovative delivery system,imagery,packaging,TVC,0.37,Skincare,Toner
+Toner I,Brand C,France,Clinically proven results,statement,clinical/instrumental,POS,0.67,Skincare,Toner
+Toner I,Brand C,France,Clinically proven results,statement,shares/sales/R&R/endorsement,Digital,0.45,Skincare,Toner
+Toner I,Brand C,France,No parabens,comparative/superiority,packaging,PACK,0.45,Skincare,Toner
+Toner I,Brand C,France,Innovative delivery system,imagery,shares/sales/R&R/endorsement,PACK,0.95,Skincare,Toner
+Toner I,Brand C,France,Proven with clinical trial,comparative/superiority,local relevance/safety/sustainability,PACK,0.89,Skincare,Toner
+Toner I,Brand C,France,Boosts skin barrier,statement,packaging,PACK,0.35,Skincare,Toner
+Toner I,Brand C,France,Fragrance-free and gentle,statement,clinical/instrumental,PACK,0.61,Skincare,Toner
+Toner I,Brand C,France,Allergy tested,comparative/superiority,consumer perception,Digital,0.82,Skincare,Toner
+Toner I,Brand C,France,Visible glow immediately,imagery,consumer perception,Digital,0.5,Skincare,Toner
+Toner I,Brand C,France,Trusted by professionals,statement,ingredient,POS,0.33,Skincare,Toner
+Toner I,Brand C,France,Visible glow immediately,statement,ingredient,POS,0.87,Skincare,Toner
+Toner I,Brand C,France,Visible glow immediately,statement,sensory,POS,0.71,Skincare,Toner
+Toner I,Brand C,France,More hydration than leading brand,imagery,sensory,PACK,0.98,Skincare,Toner
+Toner I,Brand C,France,Glowing skin all day,statement,shares/sales/R&R/endorsement,POS,0.47,Skincare,Toner
+Toner I,Brand C,France,Reduces pore appearance,comparative/superiority,emotion,POS,0.39,Skincare,Toner
+Toner I,Brand C,France,Allergy tested,imagery,local relevance/safety/sustainability,POS,0.62,Skincare,Toner
+Toner I,Brand C,France,9 out of 10 women agree,statement,ingredient,Digital,0.76,Skincare,Toner
+Toner I,Brand C,France,Smooth skin after 1 week,imagery,consumer perception,POS,0.88,Skincare,Toner
+Toner I,Brand C,France,Non-comedogenic,comparative/superiority,sensory,POS,0.45,Skincare,Toner
+Toner I,Brand C,France,Clinically proven results,imagery,science,POS,0.49,Skincare,Toner
+Toner I,Brand C,France,Non-comedogenic,comparative/superiority,ingredient,TVC,0.3,Skincare,Toner
+Toner I,Brand C,France,Visible glow immediately,imagery,formulation,PACK,0.55,Skincare,Toner
+Toner I,Brand C,France,Pro formula,statement,science,TVC,0.42,Skincare,Toner
+Cream J,Brand B,France,Oil-free formula,comparative/superiority,local relevance/safety/sustainability,TVC,0.46,Skincare,Cream
+Cream J,Brand B,France,Deep hydration effect,statement,shares/sales/R&R/endorsement,Digital,0.62,Skincare,Cream
+Cream J,Brand B,France,Fast-absorbing texture,imagery,formulation,PACK,0.92,Skincare,Cream
+Cream J,Brand B,France,Clinically proven results,statement,formulation,TVC,0.94,Skincare,Cream
+Cream J,Brand B,France,Glowing skin all day,comparative/superiority,emotion,POS,0.81,Skincare,Cream
+Cream J,Brand B,France,Reduces pore appearance,imagery,formulation,Digital,0.55,Skincare,Cream
+Cream J,Brand B,France,More hydration than leading brand,statement,ingredient,Digital,0.78,Skincare,Cream
+Cream J,Brand B,France,98% natural ingredients,comparative/superiority,local relevance/safety/sustainability,POS,0.78,Skincare,Cream
+Cream J,Brand B,France,Oil-free formula,imagery,emotion,POS,0.59,Skincare,Cream
+Cream J,Brand B,France,Eco-friendly packaging,imagery,packaging,PACK,0.36,Skincare,Cream
+Cream J,Brand B,France,Reduces pore appearance,comparative/superiority,formulation,POS,0.84,Skincare,Cream
+Cream J,Brand B,France,Proven with clinical trial,comparative/superiority,consumer perception,POS,0.85,Skincare,Cream
+Cream J,Brand B,France,Recommended by dermatologists,statement,local relevance/safety/sustainability,TVC,0.39,Skincare,Cream
+Cream J,Brand B,France,Proven with clinical trial,comparative/superiority,consumer perception,Digital,0.59,Skincare,Cream
+Cream J,Brand B,France,Reduces pore appearance,comparative/superiority,sensory,Digital,0.73,Skincare,Cream
+Cream J,Brand B,France,Clinically proven results,comparative/superiority,emotion,Digital,0.95,Skincare,Cream
+Cream J,Brand B,France,Boosts skin barrier,comparative/superiority,shares/sales/R&R/endorsement,POS,0.32,Skincare,Cream
+Cream J,Brand B,France,Improves skin elasticity,comparative/superiority,local relevance/safety/sustainability,TVC,0.74,Skincare,Cream
+Cream J,Brand B,France,Pro formula,comparative/superiority,local relevance/safety/sustainability,TVC,0.98,Skincare,Cream
+Cream J,Brand B,France,No parabens,comparative/superiority,formulation,Digital,0.84,Skincare,Cream
+Cream J,Brand B,France,Boosts skin barrier,statement,science,POS,0.42,Skincare,Cream
+Cream J,Brand B,France,Glowing skin all day,imagery,formulation,Digital,0.34,Skincare,Cream
+Cream J,Brand B,France,Boosts skin barrier,imagery,shares/sales/R&R/endorsement,Digital,0.9,Skincare,Cream
+Cream J,Brand B,France,Fragrance-free and gentle,comparative/superiority,science,PACK,0.3,Skincare,Cream
+Cream J,Brand B,France,98% natural ingredients,imagery,ingredient,POS,0.7,Skincare,Cream
+Cream J,Brand B,France,Recommended by dermatologists,statement,sensory,TVC,0.38,Skincare,Cream
+Cream J,Brand B,France,Boosts skin barrier,statement,packaging,Digital,0.46,Skincare,Cream
+Serum A,Brand D,Germany,Fast-absorbing texture,comparative/superiority,clinical/instrumental,TVC,0.66,Skincare,Serum
+Serum A,Brand D,Germany,Recommended by dermatologists,statement,packaging,Digital,0.96,Skincare,Serum
+Serum A,Brand D,Germany,Glowing skin all day,statement,consumer perception,POS,0.85,Skincare,Serum
+Serum A,Brand D,Germany,Proven with clinical trial,imagery,consumer perception,PACK,0.48,Skincare,Serum
+Serum A,Brand D,Germany,Innovative delivery system,imagery,shares/sales/R&R/endorsement,Digital,0.39,Skincare,Serum
+Serum A,Brand D,Germany,Innovative delivery system,comparative/superiority,sensory,Digital,0.67,Skincare,Serum
+Serum A,Brand D,Germany,More hydration than leading brand,comparative/superiority,consumer perception,PACK,0.34,Skincare,Serum
+Serum A,Brand D,Germany,Recommended by dermatologists,comparative/superiority,consumer perception,POS,0.74,Skincare,Serum
+Serum A,Brand D,Germany,Innovative delivery system,imagery,packaging,Digital,0.53,Skincare,Serum
+Serum A,Brand D,Germany,Proven with clinical trial,comparative/superiority,clinical/instrumental,TVC,0.82,Skincare,Serum
+Serum A,Brand D,Germany,Deep hydration effect,comparative/superiority,emotion,POS,0.95,Skincare,Serum
+Serum A,Brand D,Germany,Visible results in 7 days,comparative/superiority,clinical/instrumental,PACK,0.76,Skincare,Serum
+Serum A,Brand D,Germany,Recommended by dermatologists,comparative/superiority,clinical/instrumental,POS,0.96,Skincare,Serum
+Serum A,Brand D,Germany,Visible results in 7 days,statement,science,TVC,0.75,Skincare,Serum
+Serum A,Brand D,Germany,Reduces fine lines,imagery,consumer perception,Digital,0.38,Skincare,Serum
+Serum A,Brand D,Germany,Oil-free formula,statement,clinical/instrumental,TVC,0.44,Skincare,Serum
+Serum A,Brand D,Germany,No parabens,statement,emotion,POS,0.74,Skincare,Serum
+Serum A,Brand D,Germany,Visible glow immediately,imagery,local relevance/safety/sustainability,TVC,0.43,Skincare,Serum
+Serum A,Brand D,Germany,Clinically proven results,comparative/superiority,ingredient,POS,0.59,Skincare,Serum
+Serum A,Brand D,Germany,Fast-absorbing texture,statement,sensory,Digital,0.58,Skincare,Serum
+Serum A,Brand D,Germany,Reduces pore appearance,imagery,consumer perception,PACK,0.74,Skincare,Serum
+Serum A,Brand D,Germany,Visible glow immediately,statement,formulation,POS,0.96,Skincare,Serum
+Serum A,Brand D,Germany,Reduces pore appearance,comparative/superiority,emotion,TVC,0.48,Skincare,Serum
+Serum A,Brand D,Germany,Oil-free formula,imagery,emotion,POS,0.63,Skincare,Serum
+Serum A,Brand D,Germany,Fragrance-free and gentle,comparative/superiority,local relevance/safety/sustainability,Digital,0.99,Skincare,Serum
+Serum A,Brand D,Germany,98% natural ingredients,statement,ingredient,POS,0.34,Skincare,Serum
+Serum A,Brand D,Germany,Trusted by professionals,statement,clinical/instrumental,POS,0.79,Skincare,Serum
+Essence B,Brand C,Germany,Tested on sensitive skin,statement,clinical/instrumental,POS,0.85,Skincare,Essence
+Essence B,Brand C,Germany,Tested on sensitive skin,imagery,science,POS,0.54,Skincare,Essence
+Essence B,Brand C,Germany,Recommended by dermatologists,imagery,emotion,POS,0.54,Skincare,Essence
+Essence B,Brand C,Germany,Dermatologist recommended formula,comparative/superiority,local relevance/safety/sustainability,POS,0.71,Skincare,Essence
+Essence B,Brand C,Germany,Dermatologist recommended formula,imagery,science,PACK,0.59,Skincare,Essence
+Essence B,Brand C,Germany,98% natural ingredients,comparative/superiority,sensory,Digital,0.34,Skincare,Essence
+Essence B,Brand C,Germany,Reduces fine lines,comparative/superiority,consumer perception,Digital,0.5,Skincare,Essence
+Essence B,Brand C,Germany,Improves skin elasticity,comparative/superiority,clinical/instrumental,TVC,0.55,Skincare,Essence
+Essence B,Brand C,Germany,Visible results in 7 days,comparative/superiority,local relevance/safety/sustainability,PACK,0.39,Skincare,Essence
+Essence B,Brand C,Germany,98% natural ingredients,comparative/superiority,science,POS,0.32,Skincare,Essence
+Essence B,Brand C,Germany,Non-comedogenic,comparative/superiority,local relevance/safety/sustainability,Digital,0.36,Skincare,Essence
+Essence B,Brand C,Germany,Smooth skin after 1 week,statement,sensory,POS,0.95,Skincare,Essence
+Essence B,Brand C,Germany,No parabens,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.69,Skincare,Essence
+Essence B,Brand C,Germany,Clinically proven results,imagery,ingredient,Digital,0.6,Skincare,Essence
+Essence B,Brand C,Germany,Oil-free formula,imagery,local relevance/safety/sustainability,POS,0.4,Skincare,Essence
+Essence B,Brand C,Germany,Reduces fine lines,imagery,packaging,POS,0.35,Skincare,Essence
+Essence B,Brand C,Germany,Sustainable packaging,comparative/superiority,sensory,TVC,0.82,Skincare,Essence
+Essence B,Brand C,Germany,Tested on sensitive skin,statement,science,Digital,0.5,Skincare,Essence
+Essence B,Brand C,Germany,Sustainable packaging,statement,ingredient,POS,0.93,Skincare,Essence
+Essence B,Brand C,Germany,Deep hydration effect,imagery,formulation,PACK,0.98,Skincare,Essence
+Essence B,Brand C,Germany,Fast-absorbing texture,comparative/superiority,formulation,Digital,0.72,Skincare,Essence
+Essence B,Brand C,Germany,Fast-absorbing texture,statement,formulation,Digital,0.94,Skincare,Essence
+Essence B,Brand C,Germany,Tested on sensitive skin,statement,ingredient,Digital,0.66,Skincare,Essence
+Essence B,Brand C,Germany,Trusted by professionals,statement,clinical/instrumental,Digital,0.61,Skincare,Essence
+Essence B,Brand C,Germany,Innovative delivery system,statement,sensory,Digital,0.66,Skincare,Essence
+Essence B,Brand C,Germany,Improves skin elasticity,comparative/superiority,clinical/instrumental,Digital,0.84,Skincare,Essence
+Essence B,Brand C,Germany,No parabens,comparative/superiority,consumer perception,PACK,0.8,Skincare,Essence
+Essence B,Brand C,Germany,Clinically proven results,comparative/superiority,consumer perception,POS,0.41,Skincare,Essence
+Essence B,Brand C,Germany,Non-comedogenic,comparative/superiority,consumer perception,POS,0.76,Skincare,Essence
+Essence B,Brand C,Germany,More hydration than leading brand,imagery,formulation,POS,0.73,Skincare,Essence
+Toner C,Brand B,Germany,Reduces pore appearance,imagery,formulation,POS,0.76,Skincare,Toner
+Toner C,Brand B,Germany,Sustainable packaging,statement,formulation,POS,0.75,Skincare,Toner
+Toner C,Brand B,Germany,9 out of 10 women agree,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.6,Skincare,Toner
+Toner C,Brand B,Germany,Reduces pore appearance,statement,ingredient,PACK,0.97,Skincare,Toner
+Toner C,Brand B,Germany,Allergy tested,imagery,sensory,POS,0.76,Skincare,Toner
+Toner C,Brand B,Germany,Visible glow immediately,statement,packaging,PACK,0.32,Skincare,Toner
+Toner C,Brand B,Germany,Fragrance-free and gentle,statement,shares/sales/R&R/endorsement,POS,0.86,Skincare,Toner
+Toner C,Brand B,Germany,Visible glow immediately,imagery,clinical/instrumental,PACK,0.95,Skincare,Toner
+Toner C,Brand B,Germany,Oil-free formula,imagery,clinical/instrumental,Digital,0.42,Skincare,Toner
+Toner C,Brand B,Germany,Trusted by professionals,statement,clinical/instrumental,POS,0.71,Skincare,Toner
+Toner C,Brand B,Germany,Proven with clinical trial,statement,clinical/instrumental,TVC,0.37,Skincare,Toner
+Toner C,Brand B,Germany,No parabens,comparative/superiority,formulation,TVC,0.58,Skincare,Toner
+Toner C,Brand B,Germany,Deep hydration effect,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.98,Skincare,Toner
+Toner C,Brand B,Germany,Sustainable packaging,statement,packaging,TVC,0.34,Skincare,Toner
+Toner C,Brand B,Germany,Tested on sensitive skin,statement,shares/sales/R&R/endorsement,PACK,0.96,Skincare,Toner
+Toner C,Brand B,Germany,Innovative delivery system,imagery,science,Digital,0.33,Skincare,Toner
+Toner C,Brand B,Germany,More hydration than leading brand,imagery,science,Digital,0.37,Skincare,Toner
+Toner C,Brand B,Germany,Dermatologist recommended formula,statement,sensory,PACK,0.35,Skincare,Toner
+Toner C,Brand B,Germany,Innovative delivery system,comparative/superiority,consumer perception,Digital,0.7,Skincare,Toner
+Toner C,Brand B,Germany,Sustainable packaging,statement,packaging,Digital,0.97,Skincare,Toner
+Toner C,Brand B,Germany,More hydration than leading brand,imagery,formulation,TVC,0.86,Skincare,Toner
+Toner C,Brand B,Germany,Improves skin elasticity,imagery,emotion,POS,0.71,Skincare,Toner
+Toner C,Brand B,Germany,Visible results in 7 days,comparative/superiority,local relevance/safety/sustainability,Digital,0.33,Skincare,Toner
+Toner C,Brand B,Germany,Oil-free formula,statement,local relevance/safety/sustainability,Digital,0.8,Skincare,Toner
+Toner C,Brand B,Germany,Improves skin elasticity,statement,sensory,Digital,0.56,Skincare,Toner
+Cream D,Brand C,Germany,Glowing skin all day,imagery,science,POS,0.57,Skincare,Cream
+Cream D,Brand C,Germany,Tested on sensitive skin,imagery,formulation,POS,0.42,Skincare,Cream
+Cream D,Brand C,Germany,Smooth skin after 1 week,imagery,shares/sales/R&R/endorsement,PACK,0.66,Skincare,Cream
+Cream D,Brand C,Germany,Eco-friendly packaging,imagery,sensory,POS,0.55,Skincare,Cream
+Cream D,Brand C,Germany,Improves skin elasticity,statement,science,PACK,0.96,Skincare,Cream
+Cream D,Brand C,Germany,More hydration than leading brand,imagery,packaging,POS,0.91,Skincare,Cream
+Cream D,Brand C,Germany,No parabens,comparative/superiority,ingredient,PACK,0.63,Skincare,Cream
+Cream D,Brand C,Germany,Fragrance-free and gentle,statement,local relevance/safety/sustainability,PACK,0.97,Skincare,Cream
+Cream D,Brand C,Germany,Reduces pore appearance,imagery,sensory,POS,0.52,Skincare,Cream
+Cream D,Brand C,Germany,Deep hydration effect,imagery,sensory,Digital,0.88,Skincare,Cream
+Cream D,Brand C,Germany,Proven with clinical trial,statement,sensory,Digital,0.71,Skincare,Cream
+Cream D,Brand C,Germany,98% natural ingredients,statement,packaging,TVC,0.91,Skincare,Cream
+Cream D,Brand C,Germany,Tested on sensitive skin,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.9,Skincare,Cream
+Cream D,Brand C,Germany,Proven with clinical trial,comparative/superiority,sensory,POS,0.81,Skincare,Cream
+Cream D,Brand C,Germany,Tested on sensitive skin,imagery,ingredient,PACK,0.63,Skincare,Cream
+Cream D,Brand C,Germany,Visible results in 7 days,comparative/superiority,emotion,PACK,0.73,Skincare,Cream
+Cream D,Brand C,Germany,Non-comedogenic,comparative/superiority,ingredient,Digital,0.75,Skincare,Cream
+Cream D,Brand C,Germany,Visible glow immediately,imagery,formulation,POS,0.55,Skincare,Cream
+Cream D,Brand C,Germany,Sustainable packaging,imagery,science,PACK,0.54,Skincare,Cream
+Cream D,Brand C,Germany,Fast-absorbing texture,comparative/superiority,clinical/instrumental,PACK,0.47,Skincare,Cream
+Cream D,Brand C,Germany,Pro formula,imagery,consumer perception,PACK,0.91,Skincare,Cream
+Cream D,Brand C,Germany,Eco-friendly packaging,imagery,formulation,POS,0.82,Skincare,Cream
+Cream D,Brand C,Germany,Glowing skin all day,statement,packaging,POS,0.8,Skincare,Cream
+Cream D,Brand C,Germany,Deep hydration effect,statement,local relevance/safety/sustainability,Digital,0.32,Skincare,Cream
+Cream D,Brand C,Germany,Innovative delivery system,statement,clinical/instrumental,PACK,0.41,Skincare,Cream
+Cream D,Brand C,Germany,Tested on sensitive skin,statement,shares/sales/R&R/endorsement,Digital,0.94,Skincare,Cream
+Cream E,Brand D,Germany,Clinically proven results,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.74,Skincare,Cream
+Cream E,Brand D,Germany,Clinically proven results,comparative/superiority,consumer perception,PACK,0.82,Skincare,Cream
+Cream E,Brand D,Germany,Deep hydration effect,imagery,shares/sales/R&R/endorsement,POS,0.45,Skincare,Cream
+Cream E,Brand D,Germany,Allergy tested,imagery,packaging,PACK,0.93,Skincare,Cream
+Cream E,Brand D,Germany,Instant soothing,imagery,packaging,POS,0.79,Skincare,Cream
+Cream E,Brand D,Germany,Non-comedogenic,comparative/superiority,clinical/instrumental,Digital,0.72,Skincare,Cream
+Cream E,Brand D,Germany,Proven with clinical trial,imagery,shares/sales/R&R/endorsement,PACK,0.44,Skincare,Cream
+Cream E,Brand D,Germany,Dermatologist recommended formula,imagery,local relevance/safety/sustainability,PACK,0.45,Skincare,Cream
+Cream E,Brand D,Germany,Eco-friendly packaging,comparative/superiority,formulation,Digital,0.61,Skincare,Cream
+Cream E,Brand D,Germany,Recommended by dermatologists,imagery,formulation,Digital,0.94,Skincare,Cream
+Cream E,Brand D,Germany,Recommended by dermatologists,imagery,local relevance/safety/sustainability,TVC,0.98,Skincare,Cream
+Cream E,Brand D,Germany,Dermatologist recommended formula,imagery,formulation,Digital,0.92,Skincare,Cream
+Cream E,Brand D,Germany,Allergy tested,imagery,sensory,POS,0.89,Skincare,Cream
+Cream E,Brand D,Germany,Sustainable packaging,comparative/superiority,clinical/instrumental,PACK,0.89,Skincare,Cream
+Cream E,Brand D,Germany,Sustainable packaging,statement,ingredient,TVC,0.8,Skincare,Cream
+Cream E,Brand D,Germany,Recommended by dermatologists,imagery,consumer perception,PACK,0.41,Skincare,Cream
+Cream E,Brand D,Germany,Fragrance-free and gentle,statement,shares/sales/R&R/endorsement,POS,0.85,Skincare,Cream
+Cream E,Brand D,Germany,Proven with clinical trial,comparative/superiority,shares/sales/R&R/endorsement,POS,0.46,Skincare,Cream
+Cream E,Brand D,Germany,Instant soothing,comparative/superiority,science,TVC,0.86,Skincare,Cream
+Cream E,Brand D,Germany,Reduces fine lines,comparative/superiority,clinical/instrumental,POS,0.67,Skincare,Cream
+Cream E,Brand D,Germany,Sustainable packaging,statement,sensory,PACK,0.69,Skincare,Cream
+Cream E,Brand D,Germany,Non-comedogenic,imagery,sensory,Digital,0.72,Skincare,Cream
+Cream E,Brand D,Germany,Sustainable packaging,comparative/superiority,ingredient,PACK,0.92,Skincare,Cream
+Cream E,Brand D,Germany,98% natural ingredients,imagery,formulation,PACK,0.41,Skincare,Cream
+Cream E,Brand D,Germany,Instant soothing,imagery,local relevance/safety/sustainability,Digital,0.52,Skincare,Cream
+Essence F,Brand A,Germany,Tested on sensitive skin,statement,shares/sales/R&R/endorsement,POS,0.42,Skincare,Essence
+Essence F,Brand A,Germany,Sustainable packaging,statement,science,Digital,0.76,Skincare,Essence
+Essence F,Brand A,Germany,Trusted by professionals,statement,science,Digital,0.74,Skincare,Essence
+Essence F,Brand A,Germany,Non-comedogenic,statement,clinical/instrumental,TVC,0.91,Skincare,Essence
+Essence F,Brand A,Germany,Deep hydration effect,statement,ingredient,PACK,0.37,Skincare,Essence
+Essence F,Brand A,Germany,Improves skin elasticity,comparative/superiority,consumer perception,Digital,0.57,Skincare,Essence
+Essence F,Brand A,Germany,Deep hydration effect,comparative/superiority,emotion,TVC,0.61,Skincare,Essence
+Essence F,Brand A,Germany,Reduces fine lines,statement,consumer perception,POS,0.42,Skincare,Essence
+Essence F,Brand A,Germany,Recommended by dermatologists,comparative/superiority,packaging,PACK,0.6,Skincare,Essence
+Essence F,Brand A,Germany,Recommended by dermatologists,imagery,shares/sales/R&R/endorsement,TVC,0.56,Skincare,Essence
+Essence F,Brand A,Germany,Visible results in 7 days,comparative/superiority,science,Digital,0.66,Skincare,Essence
+Essence F,Brand A,Germany,Fast-absorbing texture,imagery,consumer perception,PACK,0.93,Skincare,Essence
+Essence F,Brand A,Germany,Non-comedogenic,statement,sensory,Digital,0.44,Skincare,Essence
+Essence F,Brand A,Germany,Oil-free formula,comparative/superiority,emotion,TVC,0.49,Skincare,Essence
+Essence F,Brand A,Germany,9 out of 10 women agree,comparative/superiority,formulation,TVC,0.64,Skincare,Essence
+Essence F,Brand A,Germany,Visible glow immediately,statement,local relevance/safety/sustainability,POS,0.95,Skincare,Essence
+Essence F,Brand A,Germany,Non-comedogenic,comparative/superiority,packaging,POS,0.94,Skincare,Essence
+Essence F,Brand A,Germany,Allergy tested,statement,emotion,POS,0.79,Skincare,Essence
+Essence F,Brand A,Germany,Deep hydration effect,comparative/superiority,clinical/instrumental,POS,0.6,Skincare,Essence
+Essence F,Brand A,Germany,Allergy tested,comparative/superiority,packaging,TVC,0.85,Skincare,Essence
+Essence F,Brand A,Germany,9 out of 10 women agree,comparative/superiority,local relevance/safety/sustainability,Digital,0.61,Skincare,Essence
+Essence F,Brand A,Germany,Visible glow immediately,statement,shares/sales/R&R/endorsement,PACK,1.0,Skincare,Essence
+Essence F,Brand A,Germany,Smooth skin after 1 week,imagery,packaging,Digital,0.57,Skincare,Essence
+Essence F,Brand A,Germany,Visible glow immediately,comparative/superiority,packaging,Digital,0.92,Skincare,Essence
+Essence F,Brand A,Germany,Recommended by dermatologists,imagery,local relevance/safety/sustainability,TVC,0.87,Skincare,Essence
+Essence F,Brand A,Germany,No parabens,statement,clinical/instrumental,POS,1.0,Skincare,Essence
+Cream G,Brand A,Germany,Innovative delivery system,imagery,local relevance/safety/sustainability,PACK,0.88,Skincare,Cream
+Cream G,Brand A,Germany,9 out of 10 women agree,imagery,local relevance/safety/sustainability,POS,0.98,Skincare,Cream
+Cream G,Brand A,Germany,Smooth skin after 1 week,imagery,packaging,TVC,0.68,Skincare,Cream
+Cream G,Brand A,Germany,Glowing skin all day,statement,consumer perception,Digital,0.55,Skincare,Cream
+Cream G,Brand A,Germany,Innovative delivery system,comparative/superiority,science,POS,0.33,Skincare,Cream
+Cream G,Brand A,Germany,Reduces pore appearance,imagery,science,POS,0.49,Skincare,Cream
+Cream G,Brand A,Germany,9 out of 10 women agree,imagery,consumer perception,Digital,0.62,Skincare,Cream
+Cream G,Brand A,Germany,Oil-free formula,statement,packaging,PACK,0.93,Skincare,Cream
+Cream G,Brand A,Germany,Deep hydration effect,imagery,science,POS,0.51,Skincare,Cream
+Cream G,Brand A,Germany,Boosts skin barrier,imagery,shares/sales/R&R/endorsement,POS,0.79,Skincare,Cream
+Cream G,Brand A,Germany,Deep hydration effect,imagery,shares/sales/R&R/endorsement,TVC,0.64,Skincare,Cream
+Cream G,Brand A,Germany,9 out of 10 women agree,statement,emotion,POS,0.91,Skincare,Cream
+Cream G,Brand A,Germany,Reduces pore appearance,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.77,Skincare,Cream
+Cream G,Brand A,Germany,Pro formula,comparative/superiority,ingredient,TVC,0.48,Skincare,Cream
+Cream G,Brand A,Germany,Recommended by dermatologists,comparative/superiority,ingredient,POS,0.52,Skincare,Cream
+Cream G,Brand A,Germany,Reduces pore appearance,imagery,formulation,TVC,0.62,Skincare,Cream
+Cream G,Brand A,Germany,Proven with clinical trial,statement,science,POS,0.77,Skincare,Cream
+Cream G,Brand A,Germany,Pro formula,statement,science,POS,0.7,Skincare,Cream
+Cream G,Brand A,Germany,Eco-friendly packaging,comparative/superiority,local relevance/safety/sustainability,PACK,0.98,Skincare,Cream
+Cream G,Brand A,Germany,Glowing skin all day,imagery,emotion,Digital,0.93,Skincare,Cream
+Cream G,Brand A,Germany,Deep hydration effect,statement,ingredient,POS,0.93,Skincare,Cream
+Cream G,Brand A,Germany,Sustainable packaging,comparative/superiority,sensory,POS,0.38,Skincare,Cream
+Cream G,Brand A,Germany,Reduces fine lines,imagery,sensory,PACK,0.78,Skincare,Cream
+Cream G,Brand A,Germany,Allergy tested,imagery,packaging,PACK,0.66,Skincare,Cream
+Cream G,Brand A,Germany,Instant soothing,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.54,Skincare,Cream
+Cream G,Brand A,Germany,Fast-absorbing texture,comparative/superiority,packaging,POS,0.95,Skincare,Cream
+Cream G,Brand A,Germany,Visible results in 7 days,statement,emotion,Digital,0.71,Skincare,Cream
+Cream G,Brand A,Germany,Visible glow immediately,comparative/superiority,science,TVC,0.69,Skincare,Cream
+Cream G,Brand A,Germany,Trusted by professionals,statement,emotion,POS,0.75,Skincare,Cream
+Essence H,Brand B,Germany,Tested on sensitive skin,comparative/superiority,local relevance/safety/sustainability,PACK,0.34,Skincare,Essence
+Essence H,Brand B,Germany,Tested on sensitive skin,statement,sensory,Digital,0.75,Skincare,Essence
+Essence H,Brand B,Germany,Tested on sensitive skin,comparative/superiority,science,POS,0.74,Skincare,Essence
+Essence H,Brand B,Germany,More hydration than leading brand,imagery,science,POS,0.45,Skincare,Essence
+Essence H,Brand B,Germany,Tested on sensitive skin,statement,consumer perception,POS,0.76,Skincare,Essence
+Essence H,Brand B,Germany,9 out of 10 women agree,statement,packaging,POS,0.46,Skincare,Essence
+Essence H,Brand B,Germany,Reduces pore appearance,comparative/superiority,local relevance/safety/sustainability,POS,0.98,Skincare,Essence
+Essence H,Brand B,Germany,Trusted by professionals,imagery,shares/sales/R&R/endorsement,Digital,0.35,Skincare,Essence
+Essence H,Brand B,Germany,Oil-free formula,imagery,formulation,POS,0.54,Skincare,Essence
+Essence H,Brand B,Germany,Pro formula,imagery,shares/sales/R&R/endorsement,TVC,0.88,Skincare,Essence
+Essence H,Brand B,Germany,Boosts skin barrier,statement,formulation,TVC,0.44,Skincare,Essence
+Essence H,Brand B,Germany,More hydration than leading brand,statement,packaging,POS,0.64,Skincare,Essence
+Essence H,Brand B,Germany,Allergy tested,comparative/superiority,consumer perception,Digital,0.55,Skincare,Essence
+Essence H,Brand B,Germany,Oil-free formula,comparative/superiority,formulation,TVC,0.77,Skincare,Essence
+Essence H,Brand B,Germany,Clinically proven results,statement,clinical/instrumental,Digital,0.38,Skincare,Essence
+Essence H,Brand B,Germany,Instant soothing,comparative/superiority,consumer perception,TVC,0.99,Skincare,Essence
+Essence H,Brand B,Germany,Dermatologist recommended formula,imagery,formulation,TVC,0.62,Skincare,Essence
+Essence H,Brand B,Germany,Visible glow immediately,statement,sensory,Digital,0.45,Skincare,Essence
+Essence H,Brand B,Germany,Glowing skin all day,statement,clinical/instrumental,Digital,0.84,Skincare,Essence
+Essence H,Brand B,Germany,Recommended by dermatologists,statement,sensory,TVC,0.86,Skincare,Essence
+Essence H,Brand B,Germany,Non-comedogenic,imagery,clinical/instrumental,Digital,0.91,Skincare,Essence
+Essence H,Brand B,Germany,Fast-absorbing texture,comparative/superiority,ingredient,TVC,0.58,Skincare,Essence
+Essence H,Brand B,Germany,Reduces pore appearance,imagery,packaging,POS,0.68,Skincare,Essence
+Essence H,Brand B,Germany,Tested on sensitive skin,imagery,clinical/instrumental,TVC,0.44,Skincare,Essence
+Essence H,Brand B,Germany,Boosts skin barrier,imagery,emotion,TVC,0.49,Skincare,Essence
+Essence H,Brand B,Germany,Reduces fine lines,imagery,clinical/instrumental,TVC,0.46,Skincare,Essence
+Essence H,Brand B,Germany,Instant soothing,imagery,consumer perception,PACK,0.52,Skincare,Essence
+Essence H,Brand B,Germany,Pro formula,imagery,clinical/instrumental,POS,0.41,Skincare,Essence
+Cream I,Brand D,Germany,Smooth skin after 1 week,statement,shares/sales/R&R/endorsement,POS,0.51,Skincare,Cream
+Cream I,Brand D,Germany,Glowing skin all day,imagery,local relevance/safety/sustainability,Digital,0.76,Skincare,Cream
+Cream I,Brand D,Germany,Reduces pore appearance,statement,sensory,POS,0.78,Skincare,Cream
+Cream I,Brand D,Germany,Reduces pore appearance,imagery,shares/sales/R&R/endorsement,TVC,0.75,Skincare,Cream
+Cream I,Brand D,Germany,Allergy tested,comparative/superiority,sensory,PACK,0.32,Skincare,Cream
+Cream I,Brand D,Germany,Non-comedogenic,imagery,clinical/instrumental,POS,0.55,Skincare,Cream
+Cream I,Brand D,Germany,Fast-absorbing texture,statement,local relevance/safety/sustainability,TVC,0.72,Skincare,Cream
+Cream I,Brand D,Germany,Reduces fine lines,imagery,ingredient,PACK,0.87,Skincare,Cream
+Cream I,Brand D,Germany,98% natural ingredients,comparative/superiority,science,Digital,0.87,Skincare,Cream
+Cream I,Brand D,Germany,Eco-friendly packaging,statement,science,TVC,0.72,Skincare,Cream
+Cream I,Brand D,Germany,Pro formula,statement,packaging,PACK,0.89,Skincare,Cream
+Cream I,Brand D,Germany,98% natural ingredients,imagery,science,Digital,0.99,Skincare,Cream
+Cream I,Brand D,Germany,Oil-free formula,comparative/superiority,sensory,PACK,0.51,Skincare,Cream
+Cream I,Brand D,Germany,Allergy tested,statement,science,TVC,0.58,Skincare,Cream
+Cream I,Brand D,Germany,Improves skin elasticity,comparative/superiority,ingredient,TVC,0.67,Skincare,Cream
+Cream I,Brand D,Germany,Pro formula,statement,ingredient,POS,1.0,Skincare,Cream
+Cream I,Brand D,Germany,Recommended by dermatologists,comparative/superiority,sensory,PACK,0.54,Skincare,Cream
+Cream I,Brand D,Germany,Sustainable packaging,comparative/superiority,sensory,POS,0.61,Skincare,Cream
+Cream I,Brand D,Germany,Recommended by dermatologists,imagery,emotion,TVC,0.42,Skincare,Cream
+Cream I,Brand D,Germany,Improves skin elasticity,comparative/superiority,sensory,Digital,0.35,Skincare,Cream
+Cream I,Brand D,Germany,Tested on sensitive skin,statement,shares/sales/R&R/endorsement,TVC,0.65,Skincare,Cream
+Cream I,Brand D,Germany,Innovative delivery system,comparative/superiority,emotion,POS,0.37,Skincare,Cream
+Cream I,Brand D,Germany,Oil-free formula,comparative/superiority,consumer perception,Digital,0.65,Skincare,Cream
+Cream I,Brand D,Germany,Recommended by dermatologists,comparative/superiority,science,TVC,0.9,Skincare,Cream
+Cream I,Brand D,Germany,Fast-absorbing texture,statement,consumer perception,PACK,0.53,Skincare,Cream
+Cream J,Brand A,Germany,Non-comedogenic,imagery,ingredient,PACK,0.47,Skincare,Cream
+Cream J,Brand A,Germany,9 out of 10 women agree,imagery,consumer perception,TVC,0.38,Skincare,Cream
+Cream J,Brand A,Germany,9 out of 10 women agree,comparative/superiority,ingredient,TVC,0.93,Skincare,Cream
+Cream J,Brand A,Germany,Recommended by dermatologists,imagery,ingredient,POS,0.85,Skincare,Cream
+Cream J,Brand A,Germany,Clinically proven results,statement,science,POS,0.92,Skincare,Cream
+Cream J,Brand A,Germany,More hydration than leading brand,statement,formulation,POS,0.48,Skincare,Cream
+Cream J,Brand A,Germany,Instant soothing,statement,clinical/instrumental,Digital,0.72,Skincare,Cream
+Cream J,Brand A,Germany,Dermatologist recommended formula,statement,local relevance/safety/sustainability,TVC,0.68,Skincare,Cream
+Cream J,Brand A,Germany,Tested on sensitive skin,statement,ingredient,POS,0.94,Skincare,Cream
+Cream J,Brand A,Germany,Oil-free formula,statement,clinical/instrumental,TVC,0.37,Skincare,Cream
+Cream J,Brand A,Germany,Sustainable packaging,imagery,science,TVC,0.4,Skincare,Cream
+Cream J,Brand A,Germany,Improves skin elasticity,comparative/superiority,consumer perception,POS,0.37,Skincare,Cream
+Cream J,Brand A,Germany,Fast-absorbing texture,comparative/superiority,clinical/instrumental,Digital,0.98,Skincare,Cream
+Cream J,Brand A,Germany,Improves skin elasticity,imagery,sensory,Digital,0.62,Skincare,Cream
+Cream J,Brand A,Germany,Boosts skin barrier,statement,formulation,POS,0.58,Skincare,Cream
+Cream J,Brand A,Germany,Sustainable packaging,statement,formulation,TVC,0.66,Skincare,Cream
+Cream J,Brand A,Germany,More hydration than leading brand,statement,clinical/instrumental,TVC,0.84,Skincare,Cream
+Cream J,Brand A,Germany,Proven with clinical trial,comparative/superiority,science,Digital,0.55,Skincare,Cream
+Cream J,Brand A,Germany,Sustainable packaging,comparative/superiority,sensory,PACK,0.58,Skincare,Cream
+Cream J,Brand A,Germany,Visible glow immediately,comparative/superiority,clinical/instrumental,POS,0.41,Skincare,Cream
+Cream J,Brand A,Germany,98% natural ingredients,statement,consumer perception,Digital,0.67,Skincare,Cream
+Cream J,Brand A,Germany,Fragrance-free and gentle,statement,science,POS,0.85,Skincare,Cream
+Cream J,Brand A,Germany,Fragrance-free and gentle,imagery,clinical/instrumental,TVC,0.92,Skincare,Cream
+Cream J,Brand A,Germany,Innovative delivery system,imagery,shares/sales/R&R/endorsement,Digital,0.66,Skincare,Cream
+Cream J,Brand A,Germany,Sustainable packaging,comparative/superiority,packaging,Digital,0.47,Skincare,Cream
+Cream J,Brand A,Germany,Improves skin elasticity,comparative/superiority,clinical/instrumental,TVC,0.59,Skincare,Cream
+Serum A,Brand D,Brazil,Boosts skin barrier,imagery,science,POS,0.71,Skincare,Serum
+Serum A,Brand D,Brazil,Trusted by professionals,comparative/superiority,ingredient,Digital,0.68,Skincare,Serum
+Serum A,Brand D,Brazil,9 out of 10 women agree,imagery,local relevance/safety/sustainability,Digital,0.86,Skincare,Serum
+Serum A,Brand D,Brazil,Improves skin elasticity,imagery,emotion,Digital,0.8,Skincare,Serum
+Serum A,Brand D,Brazil,Non-comedogenic,comparative/superiority,packaging,TVC,0.52,Skincare,Serum
+Serum A,Brand D,Brazil,Tested on sensitive skin,statement,consumer perception,PACK,0.33,Skincare,Serum
+Serum A,Brand D,Brazil,Reduces pore appearance,imagery,clinical/instrumental,Digital,0.87,Skincare,Serum
+Serum A,Brand D,Brazil,Dermatologist recommended formula,comparative/superiority,consumer perception,TVC,0.41,Skincare,Serum
+Serum A,Brand D,Brazil,More hydration than leading brand,statement,sensory,PACK,0.63,Skincare,Serum
+Serum A,Brand D,Brazil,Visible results in 7 days,comparative/superiority,science,Digital,0.47,Skincare,Serum
+Serum A,Brand D,Brazil,Allergy tested,statement,ingredient,Digital,0.71,Skincare,Serum
+Serum A,Brand D,Brazil,Non-comedogenic,comparative/superiority,science,POS,0.41,Skincare,Serum
+Serum A,Brand D,Brazil,Recommended by dermatologists,imagery,consumer perception,TVC,0.75,Skincare,Serum
+Serum A,Brand D,Brazil,Fast-absorbing texture,statement,shares/sales/R&R/endorsement,PACK,0.97,Skincare,Serum
+Serum A,Brand D,Brazil,Boosts skin barrier,imagery,clinical/instrumental,Digital,0.84,Skincare,Serum
+Serum A,Brand D,Brazil,Non-comedogenic,imagery,formulation,TVC,0.66,Skincare,Serum
+Serum A,Brand D,Brazil,Instant soothing,statement,local relevance/safety/sustainability,TVC,0.78,Skincare,Serum
+Serum A,Brand D,Brazil,More hydration than leading brand,imagery,consumer perception,Digital,0.93,Skincare,Serum
+Serum A,Brand D,Brazil,98% natural ingredients,comparative/superiority,sensory,TVC,0.74,Skincare,Serum
+Serum A,Brand D,Brazil,Reduces pore appearance,comparative/superiority,formulation,TVC,0.76,Skincare,Serum
+Serum A,Brand D,Brazil,Fragrance-free and gentle,imagery,science,PACK,0.56,Skincare,Serum
+Serum A,Brand D,Brazil,Boosts skin barrier,imagery,emotion,Digital,0.32,Skincare,Serum
+Serum A,Brand D,Brazil,Tested on sensitive skin,comparative/superiority,consumer perception,Digital,0.94,Skincare,Serum
+Serum A,Brand D,Brazil,Innovative delivery system,statement,ingredient,TVC,0.54,Skincare,Serum
+Serum A,Brand D,Brazil,Allergy tested,imagery,packaging,Digital,0.55,Skincare,Serum
+Serum A,Brand D,Brazil,Proven with clinical trial,imagery,formulation,POS,0.73,Skincare,Serum
+Serum A,Brand D,Brazil,Fragrance-free and gentle,imagery,packaging,TVC,0.64,Skincare,Serum
+Serum A,Brand D,Brazil,Instant soothing,imagery,science,POS,0.6,Skincare,Serum
+Serum A,Brand D,Brazil,No parabens,imagery,shares/sales/R&R/endorsement,Digital,0.49,Skincare,Serum
+Serum A,Brand D,Brazil,Non-comedogenic,statement,ingredient,PACK,0.47,Skincare,Serum
+Cream B,Brand A,Brazil,Innovative delivery system,comparative/superiority,packaging,TVC,0.92,Skincare,Cream
+Cream B,Brand A,Brazil,Deep hydration effect,statement,formulation,PACK,0.78,Skincare,Cream
+Cream B,Brand A,Brazil,Sustainable packaging,statement,ingredient,POS,0.95,Skincare,Cream
+Cream B,Brand A,Brazil,Eco-friendly packaging,imagery,local relevance/safety/sustainability,POS,0.46,Skincare,Cream
+Cream B,Brand A,Brazil,Trusted by professionals,imagery,clinical/instrumental,Digital,0.93,Skincare,Cream
+Cream B,Brand A,Brazil,Fragrance-free and gentle,statement,sensory,PACK,0.63,Skincare,Cream
+Cream B,Brand A,Brazil,Pro formula,comparative/superiority,local relevance/safety/sustainability,POS,0.53,Skincare,Cream
+Cream B,Brand A,Brazil,More hydration than leading brand,imagery,clinical/instrumental,PACK,0.37,Skincare,Cream
+Cream B,Brand A,Brazil,9 out of 10 women agree,statement,ingredient,TVC,0.92,Skincare,Cream
+Cream B,Brand A,Brazil,Improves skin elasticity,imagery,science,POS,0.6,Skincare,Cream
+Cream B,Brand A,Brazil,Visible glow immediately,imagery,consumer perception,POS,0.8,Skincare,Cream
+Cream B,Brand A,Brazil,Fast-absorbing texture,statement,emotion,TVC,0.45,Skincare,Cream
+Cream B,Brand A,Brazil,Eco-friendly packaging,comparative/superiority,consumer perception,POS,0.33,Skincare,Cream
+Cream B,Brand A,Brazil,Innovative delivery system,imagery,clinical/instrumental,POS,0.71,Skincare,Cream
+Cream B,Brand A,Brazil,Glowing skin all day,imagery,shares/sales/R&R/endorsement,PACK,0.4,Skincare,Cream
+Cream B,Brand A,Brazil,Non-comedogenic,statement,consumer perception,PACK,0.79,Skincare,Cream
+Cream B,Brand A,Brazil,Glowing skin all day,comparative/superiority,science,PACK,0.73,Skincare,Cream
+Cream B,Brand A,Brazil,Improves skin elasticity,statement,ingredient,TVC,0.95,Skincare,Cream
+Cream B,Brand A,Brazil,Eco-friendly packaging,imagery,formulation,POS,0.83,Skincare,Cream
+Cream B,Brand A,Brazil,Trusted by professionals,statement,clinical/instrumental,POS,0.36,Skincare,Cream
+Cream B,Brand A,Brazil,Allergy tested,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.65,Skincare,Cream
+Cream B,Brand A,Brazil,Fast-absorbing texture,comparative/superiority,ingredient,POS,0.61,Skincare,Cream
+Cream B,Brand A,Brazil,98% natural ingredients,statement,sensory,POS,0.43,Skincare,Cream
+Cream B,Brand A,Brazil,Proven with clinical trial,imagery,sensory,Digital,0.84,Skincare,Cream
+Cream B,Brand A,Brazil,Fast-absorbing texture,comparative/superiority,ingredient,PACK,0.57,Skincare,Cream
+Cream B,Brand A,Brazil,Reduces fine lines,imagery,shares/sales/R&R/endorsement,PACK,0.92,Skincare,Cream
+Cream B,Brand A,Brazil,Glowing skin all day,comparative/superiority,science,Digital,0.45,Skincare,Cream
+Cream B,Brand A,Brazil,More hydration than leading brand,comparative/superiority,clinical/instrumental,Digital,0.48,Skincare,Cream
+Cream B,Brand A,Brazil,Visible results in 7 days,statement,formulation,POS,0.42,Skincare,Cream
+Lotion C,Brand D,Brazil,Reduces pore appearance,imagery,sensory,POS,0.77,Skincare,Lotion
+Lotion C,Brand D,Brazil,Oil-free formula,statement,consumer perception,POS,0.47,Skincare,Lotion
+Lotion C,Brand D,Brazil,Dermatologist recommended formula,statement,consumer perception,PACK,0.68,Skincare,Lotion
+Lotion C,Brand D,Brazil,More hydration than leading brand,imagery,science,TVC,0.74,Skincare,Lotion
+Lotion C,Brand D,Brazil,Pro formula,comparative/superiority,packaging,PACK,0.78,Skincare,Lotion
+Lotion C,Brand D,Brazil,Sustainable packaging,imagery,packaging,TVC,0.82,Skincare,Lotion
+Lotion C,Brand D,Brazil,More hydration than leading brand,comparative/superiority,local relevance/safety/sustainability,Digital,0.75,Skincare,Lotion
+Lotion C,Brand D,Brazil,Fast-absorbing texture,comparative/superiority,formulation,TVC,0.89,Skincare,Lotion
+Lotion C,Brand D,Brazil,Smooth skin after 1 week,imagery,emotion,TVC,0.61,Skincare,Lotion
+Lotion C,Brand D,Brazil,Reduces pore appearance,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.95,Skincare,Lotion
+Lotion C,Brand D,Brazil,Trusted by professionals,statement,emotion,TVC,0.59,Skincare,Lotion
+Lotion C,Brand D,Brazil,Visible glow immediately,comparative/superiority,emotion,TVC,0.36,Skincare,Lotion
+Lotion C,Brand D,Brazil,Innovative delivery system,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.79,Skincare,Lotion
+Lotion C,Brand D,Brazil,Proven with clinical trial,statement,shares/sales/R&R/endorsement,TVC,0.58,Skincare,Lotion
+Lotion C,Brand D,Brazil,Clinically proven results,imagery,sensory,POS,0.61,Skincare,Lotion
+Lotion C,Brand D,Brazil,9 out of 10 women agree,statement,clinical/instrumental,POS,0.92,Skincare,Lotion
+Lotion C,Brand D,Brazil,Recommended by dermatologists,statement,sensory,TVC,0.65,Skincare,Lotion
+Lotion C,Brand D,Brazil,Reduces pore appearance,imagery,science,PACK,0.86,Skincare,Lotion
+Lotion C,Brand D,Brazil,Eco-friendly packaging,comparative/superiority,formulation,TVC,0.83,Skincare,Lotion
+Lotion C,Brand D,Brazil,Pro formula,comparative/superiority,formulation,Digital,0.46,Skincare,Lotion
+Lotion C,Brand D,Brazil,Tested on sensitive skin,statement,packaging,PACK,0.7,Skincare,Lotion
+Lotion C,Brand D,Brazil,Visible results in 7 days,comparative/superiority,emotion,POS,1.0,Skincare,Lotion
+Lotion C,Brand D,Brazil,98% natural ingredients,imagery,emotion,Digital,0.91,Skincare,Lotion
+Lotion C,Brand D,Brazil,Boosts skin barrier,statement,shares/sales/R&R/endorsement,PACK,0.72,Skincare,Lotion
+Lotion C,Brand D,Brazil,Pro formula,statement,clinical/instrumental,POS,0.87,Skincare,Lotion
+Lotion C,Brand D,Brazil,Boosts skin barrier,statement,sensory,TVC,0.46,Skincare,Lotion
+Lotion C,Brand D,Brazil,Glowing skin all day,comparative/superiority,clinical/instrumental,Digital,0.48,Skincare,Lotion
+Lotion C,Brand D,Brazil,Instant soothing,statement,packaging,PACK,0.54,Skincare,Lotion
+Lotion C,Brand D,Brazil,Reduces fine lines,statement,emotion,PACK,0.49,Skincare,Lotion
+Lotion C,Brand D,Brazil,Boosts skin barrier,imagery,packaging,POS,0.46,Skincare,Lotion
+Toner D,Brand D,Brazil,Sustainable packaging,comparative/superiority,consumer perception,POS,0.82,Skincare,Toner
+Toner D,Brand D,Brazil,Fast-absorbing texture,imagery,emotion,PACK,0.8,Skincare,Toner
+Toner D,Brand D,Brazil,No parabens,comparative/superiority,sensory,POS,0.91,Skincare,Toner
+Toner D,Brand D,Brazil,Reduces pore appearance,statement,consumer perception,POS,0.41,Skincare,Toner
+Toner D,Brand D,Brazil,Tested on sensitive skin,imagery,formulation,TVC,0.42,Skincare,Toner
+Toner D,Brand D,Brazil,Pro formula,imagery,packaging,PACK,0.53,Skincare,Toner
+Toner D,Brand D,Brazil,More hydration than leading brand,comparative/superiority,consumer perception,PACK,0.34,Skincare,Toner
+Toner D,Brand D,Brazil,Allergy tested,statement,clinical/instrumental,Digital,0.86,Skincare,Toner
+Toner D,Brand D,Brazil,Fragrance-free and gentle,statement,sensory,PACK,0.53,Skincare,Toner
+Toner D,Brand D,Brazil,Dermatologist recommended formula,imagery,sensory,PACK,0.57,Skincare,Toner
+Toner D,Brand D,Brazil,Reduces fine lines,comparative/superiority,formulation,Digital,0.69,Skincare,Toner
+Toner D,Brand D,Brazil,Tested on sensitive skin,comparative/superiority,formulation,POS,0.58,Skincare,Toner
+Toner D,Brand D,Brazil,Innovative delivery system,statement,formulation,PACK,0.45,Skincare,Toner
+Toner D,Brand D,Brazil,Visible results in 7 days,imagery,science,POS,0.96,Skincare,Toner
+Toner D,Brand D,Brazil,Fast-absorbing texture,imagery,packaging,TVC,0.5,Skincare,Toner
+Toner D,Brand D,Brazil,Allergy tested,statement,consumer perception,PACK,0.83,Skincare,Toner
+Toner D,Brand D,Brazil,Dermatologist recommended formula,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.38,Skincare,Toner
+Toner D,Brand D,Brazil,No parabens,comparative/superiority,local relevance/safety/sustainability,TVC,0.86,Skincare,Toner
+Toner D,Brand D,Brazil,98% natural ingredients,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.98,Skincare,Toner
+Toner D,Brand D,Brazil,Instant soothing,imagery,sensory,PACK,0.85,Skincare,Toner
+Toner D,Brand D,Brazil,Visible glow immediately,imagery,shares/sales/R&R/endorsement,Digital,0.64,Skincare,Toner
+Toner D,Brand D,Brazil,Reduces pore appearance,imagery,formulation,POS,0.62,Skincare,Toner
+Toner D,Brand D,Brazil,Improves skin elasticity,statement,consumer perception,PACK,0.8,Skincare,Toner
+Toner D,Brand D,Brazil,Sustainable packaging,statement,sensory,POS,0.98,Skincare,Toner
+Toner D,Brand D,Brazil,Smooth skin after 1 week,comparative/superiority,consumer perception,TVC,0.49,Skincare,Toner
+Toner D,Brand D,Brazil,Non-comedogenic,comparative/superiority,science,Digital,0.73,Skincare,Toner
+Toner D,Brand D,Brazil,9 out of 10 women agree,statement,shares/sales/R&R/endorsement,Digital,0.92,Skincare,Toner
+Toner D,Brand D,Brazil,Sustainable packaging,statement,emotion,Digital,0.33,Skincare,Toner
+Toner D,Brand D,Brazil,Clinically proven results,comparative/superiority,sensory,TVC,0.88,Skincare,Toner
+Toner E,Brand C,Brazil,Reduces pore appearance,comparative/superiority,packaging,POS,0.69,Skincare,Toner
+Toner E,Brand C,Brazil,Instant soothing,imagery,consumer perception,TVC,0.4,Skincare,Toner
+Toner E,Brand C,Brazil,Dermatologist recommended formula,comparative/superiority,formulation,POS,0.73,Skincare,Toner
+Toner E,Brand C,Brazil,Smooth skin after 1 week,comparative/superiority,clinical/instrumental,POS,0.73,Skincare,Toner
+Toner E,Brand C,Brazil,Oil-free formula,comparative/superiority,shares/sales/R&R/endorsement,POS,0.46,Skincare,Toner
+Toner E,Brand C,Brazil,More hydration than leading brand,statement,science,POS,0.39,Skincare,Toner
+Toner E,Brand C,Brazil,Tested on sensitive skin,comparative/superiority,ingredient,Digital,0.83,Skincare,Toner
+Toner E,Brand C,Brazil,Deep hydration effect,statement,science,PACK,0.91,Skincare,Toner
+Toner E,Brand C,Brazil,Sustainable packaging,statement,emotion,PACK,0.73,Skincare,Toner
+Toner E,Brand C,Brazil,Deep hydration effect,statement,ingredient,POS,0.63,Skincare,Toner
+Toner E,Brand C,Brazil,Pro formula,imagery,shares/sales/R&R/endorsement,POS,0.95,Skincare,Toner
+Toner E,Brand C,Brazil,Dermatologist recommended formula,comparative/superiority,formulation,TVC,0.33,Skincare,Toner
+Toner E,Brand C,Brazil,Boosts skin barrier,imagery,clinical/instrumental,PACK,0.36,Skincare,Toner
+Toner E,Brand C,Brazil,9 out of 10 women agree,comparative/superiority,ingredient,PACK,0.47,Skincare,Toner
+Toner E,Brand C,Brazil,Fragrance-free and gentle,statement,science,Digital,0.35,Skincare,Toner
+Toner E,Brand C,Brazil,Proven with clinical trial,comparative/superiority,formulation,TVC,0.75,Skincare,Toner
+Toner E,Brand C,Brazil,Clinically proven results,statement,formulation,TVC,0.35,Skincare,Toner
+Toner E,Brand C,Brazil,Visible results in 7 days,imagery,consumer perception,POS,0.55,Skincare,Toner
+Toner E,Brand C,Brazil,Eco-friendly packaging,statement,shares/sales/R&R/endorsement,TVC,0.3,Skincare,Toner
+Toner E,Brand C,Brazil,Smooth skin after 1 week,statement,science,Digital,0.78,Skincare,Toner
+Toner E,Brand C,Brazil,Eco-friendly packaging,comparative/superiority,clinical/instrumental,POS,0.82,Skincare,Toner
+Toner E,Brand C,Brazil,Instant soothing,statement,clinical/instrumental,POS,0.62,Skincare,Toner
+Toner E,Brand C,Brazil,Fragrance-free and gentle,comparative/superiority,formulation,POS,0.45,Skincare,Toner
+Toner E,Brand C,Brazil,More hydration than leading brand,statement,packaging,TVC,0.57,Skincare,Toner
+Toner E,Brand C,Brazil,Sustainable packaging,comparative/superiority,clinical/instrumental,Digital,0.71,Skincare,Toner
+Toner E,Brand C,Brazil,Tested on sensitive skin,statement,packaging,PACK,0.47,Skincare,Toner
+Toner E,Brand C,Brazil,Boosts skin barrier,comparative/superiority,local relevance/safety/sustainability,TVC,0.91,Skincare,Toner
+Toner E,Brand C,Brazil,Recommended by dermatologists,imagery,packaging,Digital,0.63,Skincare,Toner
+Toner E,Brand C,Brazil,Fast-absorbing texture,statement,local relevance/safety/sustainability,TVC,0.63,Skincare,Toner
+Serum F,Brand D,Brazil,Trusted by professionals,comparative/superiority,sensory,PACK,0.38,Skincare,Serum
+Serum F,Brand D,Brazil,Trusted by professionals,statement,ingredient,Digital,0.35,Skincare,Serum
+Serum F,Brand D,Brazil,Instant soothing,comparative/superiority,clinical/instrumental,POS,0.76,Skincare,Serum
+Serum F,Brand D,Brazil,Innovative delivery system,imagery,ingredient,TVC,0.44,Skincare,Serum
+Serum F,Brand D,Brazil,Glowing skin all day,comparative/superiority,emotion,Digital,0.75,Skincare,Serum
+Serum F,Brand D,Brazil,Boosts skin barrier,imagery,consumer perception,POS,0.81,Skincare,Serum
+Serum F,Brand D,Brazil,Improves skin elasticity,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.55,Skincare,Serum
+Serum F,Brand D,Brazil,Deep hydration effect,comparative/superiority,local relevance/safety/sustainability,Digital,0.7,Skincare,Serum
+Serum F,Brand D,Brazil,Reduces fine lines,imagery,shares/sales/R&R/endorsement,Digital,0.33,Skincare,Serum
+Serum F,Brand D,Brazil,No parabens,statement,ingredient,TVC,0.68,Skincare,Serum
+Serum F,Brand D,Brazil,98% natural ingredients,imagery,ingredient,POS,0.52,Skincare,Serum
+Serum F,Brand D,Brazil,Eco-friendly packaging,statement,clinical/instrumental,POS,0.86,Skincare,Serum
+Serum F,Brand D,Brazil,Boosts skin barrier,imagery,packaging,POS,0.32,Skincare,Serum
+Serum F,Brand D,Brazil,Improves skin elasticity,imagery,emotion,Digital,0.37,Skincare,Serum
+Serum F,Brand D,Brazil,Recommended by dermatologists,imagery,science,Digital,0.89,Skincare,Serum
+Serum F,Brand D,Brazil,Fast-absorbing texture,imagery,clinical/instrumental,POS,0.5,Skincare,Serum
+Serum F,Brand D,Brazil,Allergy tested,imagery,shares/sales/R&R/endorsement,TVC,0.98,Skincare,Serum
+Serum F,Brand D,Brazil,No parabens,imagery,packaging,Digital,0.71,Skincare,Serum
+Serum F,Brand D,Brazil,Fast-absorbing texture,imagery,emotion,TVC,0.3,Skincare,Serum
+Serum F,Brand D,Brazil,Boosts skin barrier,statement,packaging,TVC,0.91,Skincare,Serum
+Serum F,Brand D,Brazil,Pro formula,statement,clinical/instrumental,PACK,0.58,Skincare,Serum
+Serum F,Brand D,Brazil,Clinically proven results,comparative/superiority,sensory,PACK,0.46,Skincare,Serum
+Serum F,Brand D,Brazil,Dermatologist recommended formula,imagery,consumer perception,POS,0.95,Skincare,Serum
+Serum F,Brand D,Brazil,Oil-free formula,comparative/superiority,formulation,Digital,0.91,Skincare,Serum
+Serum F,Brand D,Brazil,More hydration than leading brand,statement,emotion,POS,0.3,Skincare,Serum
+Serum G,Brand A,Brazil,Trusted by professionals,comparative/superiority,local relevance/safety/sustainability,TVC,0.69,Skincare,Serum
+Serum G,Brand A,Brazil,Eco-friendly packaging,comparative/superiority,clinical/instrumental,TVC,0.4,Skincare,Serum
+Serum G,Brand A,Brazil,Sustainable packaging,comparative/superiority,clinical/instrumental,TVC,0.58,Skincare,Serum
+Serum G,Brand A,Brazil,Proven with clinical trial,imagery,emotion,Digital,0.38,Skincare,Serum
+Serum G,Brand A,Brazil,Pro formula,statement,emotion,Digital,0.56,Skincare,Serum
+Serum G,Brand A,Brazil,Visible results in 7 days,imagery,ingredient,TVC,0.64,Skincare,Serum
+Serum G,Brand A,Brazil,Recommended by dermatologists,imagery,formulation,PACK,0.82,Skincare,Serum
+Serum G,Brand A,Brazil,Smooth skin after 1 week,statement,emotion,PACK,0.49,Skincare,Serum
+Serum G,Brand A,Brazil,Reduces pore appearance,comparative/superiority,ingredient,POS,0.95,Skincare,Serum
+Serum G,Brand A,Brazil,Trusted by professionals,imagery,ingredient,TVC,0.91,Skincare,Serum
+Serum G,Brand A,Brazil,Innovative delivery system,statement,packaging,Digital,0.98,Skincare,Serum
+Serum G,Brand A,Brazil,Visible results in 7 days,comparative/superiority,emotion,Digital,0.4,Skincare,Serum
+Serum G,Brand A,Brazil,More hydration than leading brand,imagery,local relevance/safety/sustainability,POS,0.74,Skincare,Serum
+Serum G,Brand A,Brazil,Trusted by professionals,comparative/superiority,science,TVC,0.51,Skincare,Serum
+Serum G,Brand A,Brazil,Tested on sensitive skin,comparative/superiority,ingredient,TVC,0.76,Skincare,Serum
+Serum G,Brand A,Brazil,Trusted by professionals,imagery,science,Digital,0.72,Skincare,Serum
+Serum G,Brand A,Brazil,Smooth skin after 1 week,imagery,science,Digital,0.76,Skincare,Serum
+Serum G,Brand A,Brazil,Oil-free formula,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.49,Skincare,Serum
+Serum G,Brand A,Brazil,No parabens,comparative/superiority,ingredient,PACK,0.36,Skincare,Serum
+Serum G,Brand A,Brazil,Dermatologist recommended formula,imagery,formulation,POS,0.48,Skincare,Serum
+Serum G,Brand A,Brazil,Oil-free formula,comparative/superiority,packaging,PACK,0.38,Skincare,Serum
+Serum G,Brand A,Brazil,Reduces pore appearance,imagery,shares/sales/R&R/endorsement,PACK,0.31,Skincare,Serum
+Serum G,Brand A,Brazil,98% natural ingredients,imagery,science,POS,0.93,Skincare,Serum
+Serum G,Brand A,Brazil,Sustainable packaging,imagery,consumer perception,POS,0.78,Skincare,Serum
+Serum G,Brand A,Brazil,98% natural ingredients,statement,consumer perception,POS,0.7,Skincare,Serum
+Serum G,Brand A,Brazil,9 out of 10 women agree,imagery,ingredient,POS,0.94,Skincare,Serum
+Cream H,Brand D,Brazil,Instant soothing,imagery,sensory,POS,0.5,Skincare,Cream
+Cream H,Brand D,Brazil,Reduces pore appearance,comparative/superiority,formulation,PACK,0.59,Skincare,Cream
+Cream H,Brand D,Brazil,Allergy tested,statement,packaging,TVC,0.74,Skincare,Cream
+Cream H,Brand D,Brazil,Reduces pore appearance,statement,sensory,Digital,0.39,Skincare,Cream
+Cream H,Brand D,Brazil,Clinically proven results,imagery,formulation,Digital,0.62,Skincare,Cream
+Cream H,Brand D,Brazil,Eco-friendly packaging,statement,clinical/instrumental,PACK,0.74,Skincare,Cream
+Cream H,Brand D,Brazil,Reduces pore appearance,imagery,consumer perception,PACK,0.98,Skincare,Cream
+Cream H,Brand D,Brazil,Trusted by professionals,imagery,consumer perception,POS,0.94,Skincare,Cream
+Cream H,Brand D,Brazil,Instant soothing,comparative/superiority,local relevance/safety/sustainability,POS,0.56,Skincare,Cream
+Cream H,Brand D,Brazil,Tested on sensitive skin,imagery,packaging,PACK,0.67,Skincare,Cream
+Cream H,Brand D,Brazil,Deep hydration effect,comparative/superiority,formulation,POS,0.77,Skincare,Cream
+Cream H,Brand D,Brazil,Clinically proven results,imagery,emotion,Digital,0.39,Skincare,Cream
+Cream H,Brand D,Brazil,Eco-friendly packaging,statement,consumer perception,PACK,0.73,Skincare,Cream
+Cream H,Brand D,Brazil,Reduces fine lines,statement,emotion,POS,0.39,Skincare,Cream
+Cream H,Brand D,Brazil,Glowing skin all day,statement,formulation,TVC,0.75,Skincare,Cream
+Cream H,Brand D,Brazil,Visible results in 7 days,imagery,formulation,Digital,0.31,Skincare,Cream
+Cream H,Brand D,Brazil,Visible glow immediately,imagery,science,PACK,0.66,Skincare,Cream
+Cream H,Brand D,Brazil,Pro formula,comparative/superiority,packaging,Digital,0.39,Skincare,Cream
+Cream H,Brand D,Brazil,Sustainable packaging,imagery,science,POS,0.79,Skincare,Cream
+Cream H,Brand D,Brazil,More hydration than leading brand,statement,ingredient,POS,0.85,Skincare,Cream
+Cream H,Brand D,Brazil,Reduces pore appearance,comparative/superiority,packaging,TVC,0.62,Skincare,Cream
+Cream H,Brand D,Brazil,Reduces fine lines,statement,sensory,PACK,0.9,Skincare,Cream
+Cream H,Brand D,Brazil,Pro formula,imagery,local relevance/safety/sustainability,Digital,0.96,Skincare,Cream
+Cream H,Brand D,Brazil,Tested on sensitive skin,imagery,consumer perception,TVC,0.82,Skincare,Cream
+Cream H,Brand D,Brazil,Proven with clinical trial,statement,sensory,POS,0.53,Skincare,Cream
+Cream H,Brand D,Brazil,Proven with clinical trial,comparative/superiority,local relevance/safety/sustainability,PACK,0.89,Skincare,Cream
+Cream H,Brand D,Brazil,Reduces fine lines,comparative/superiority,formulation,PACK,0.76,Skincare,Cream
+Cream H,Brand D,Brazil,Non-comedogenic,imagery,ingredient,TVC,0.85,Skincare,Cream
+Serum I,Brand D,Brazil,Clinically proven results,imagery,ingredient,TVC,0.84,Skincare,Serum
+Serum I,Brand D,Brazil,Glowing skin all day,comparative/superiority,sensory,Digital,0.51,Skincare,Serum
+Serum I,Brand D,Brazil,Oil-free formula,comparative/superiority,science,PACK,0.52,Skincare,Serum
+Serum I,Brand D,Brazil,Fast-absorbing texture,statement,ingredient,TVC,0.66,Skincare,Serum
+Serum I,Brand D,Brazil,Tested on sensitive skin,comparative/superiority,ingredient,TVC,0.47,Skincare,Serum
+Serum I,Brand D,Brazil,Visible results in 7 days,imagery,local relevance/safety/sustainability,PACK,0.92,Skincare,Serum
+Serum I,Brand D,Brazil,Clinically proven results,statement,packaging,PACK,0.59,Skincare,Serum
+Serum I,Brand D,Brazil,Visible glow immediately,comparative/superiority,shares/sales/R&R/endorsement,PACK,0.45,Skincare,Serum
+Serum I,Brand D,Brazil,Boosts skin barrier,imagery,local relevance/safety/sustainability,TVC,0.52,Skincare,Serum
+Serum I,Brand D,Brazil,Recommended by dermatologists,statement,shares/sales/R&R/endorsement,POS,0.72,Skincare,Serum
+Serum I,Brand D,Brazil,Proven with clinical trial,comparative/superiority,sensory,PACK,0.31,Skincare,Serum
+Serum I,Brand D,Brazil,98% natural ingredients,imagery,shares/sales/R&R/endorsement,POS,0.9,Skincare,Serum
+Serum I,Brand D,Brazil,Oil-free formula,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.43,Skincare,Serum
+Serum I,Brand D,Brazil,Allergy tested,comparative/superiority,formulation,POS,0.85,Skincare,Serum
+Serum I,Brand D,Brazil,Sustainable packaging,comparative/superiority,clinical/instrumental,Digital,0.61,Skincare,Serum
+Serum I,Brand D,Brazil,Tested on sensitive skin,comparative/superiority,consumer perception,Digital,0.9,Skincare,Serum
+Serum I,Brand D,Brazil,Tested on sensitive skin,statement,packaging,Digital,0.88,Skincare,Serum
+Serum I,Brand D,Brazil,Improves skin elasticity,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.72,Skincare,Serum
+Serum I,Brand D,Brazil,Dermatologist recommended formula,comparative/superiority,shares/sales/R&R/endorsement,TVC,0.31,Skincare,Serum
+Serum I,Brand D,Brazil,Non-comedogenic,comparative/superiority,packaging,Digital,0.37,Skincare,Serum
+Serum I,Brand D,Brazil,Fast-absorbing texture,statement,clinical/instrumental,TVC,0.64,Skincare,Serum
+Serum I,Brand D,Brazil,Smooth skin after 1 week,comparative/superiority,local relevance/safety/sustainability,PACK,0.71,Skincare,Serum
+Serum I,Brand D,Brazil,Allergy tested,statement,local relevance/safety/sustainability,POS,0.67,Skincare,Serum
+Serum I,Brand D,Brazil,Instant soothing,statement,sensory,Digital,0.65,Skincare,Serum
+Serum I,Brand D,Brazil,Boosts skin barrier,statement,packaging,POS,0.49,Skincare,Serum
+Serum I,Brand D,Brazil,9 out of 10 women agree,comparative/superiority,local relevance/safety/sustainability,Digital,0.51,Skincare,Serum
+Serum I,Brand D,Brazil,Boosts skin barrier,imagery,packaging,POS,0.54,Skincare,Serum
+Essence J,Brand C,Brazil,Allergy tested,comparative/superiority,science,PACK,0.88,Skincare,Essence
+Essence J,Brand C,Brazil,Reduces fine lines,statement,ingredient,PACK,0.41,Skincare,Essence
+Essence J,Brand C,Brazil,Smooth skin after 1 week,comparative/superiority,science,TVC,0.56,Skincare,Essence
+Essence J,Brand C,Brazil,Eco-friendly packaging,comparative/superiority,sensory,TVC,0.57,Skincare,Essence
+Essence J,Brand C,Brazil,Tested on sensitive skin,statement,clinical/instrumental,Digital,0.81,Skincare,Essence
+Essence J,Brand C,Brazil,Allergy tested,imagery,ingredient,PACK,0.92,Skincare,Essence
+Essence J,Brand C,Brazil,Trusted by professionals,comparative/superiority,packaging,PACK,0.95,Skincare,Essence
+Essence J,Brand C,Brazil,Boosts skin barrier,statement,ingredient,Digital,0.48,Skincare,Essence
+Essence J,Brand C,Brazil,Visible results in 7 days,statement,packaging,TVC,0.37,Skincare,Essence
+Essence J,Brand C,Brazil,Deep hydration effect,statement,shares/sales/R&R/endorsement,PACK,0.81,Skincare,Essence
+Essence J,Brand C,Brazil,Visible results in 7 days,comparative/superiority,packaging,TVC,0.92,Skincare,Essence
+Essence J,Brand C,Brazil,Oil-free formula,statement,clinical/instrumental,POS,0.59,Skincare,Essence
+Essence J,Brand C,Brazil,Allergy tested,statement,shares/sales/R&R/endorsement,Digital,0.37,Skincare,Essence
+Essence J,Brand C,Brazil,Fast-absorbing texture,imagery,emotion,TVC,0.97,Skincare,Essence
+Essence J,Brand C,Brazil,Glowing skin all day,statement,consumer perception,TVC,0.72,Skincare,Essence
+Essence J,Brand C,Brazil,Improves skin elasticity,imagery,clinical/instrumental,POS,0.47,Skincare,Essence
+Essence J,Brand C,Brazil,More hydration than leading brand,imagery,packaging,PACK,0.86,Skincare,Essence
+Essence J,Brand C,Brazil,Reduces fine lines,imagery,clinical/instrumental,TVC,0.59,Skincare,Essence
+Essence J,Brand C,Brazil,Reduces pore appearance,statement,sensory,POS,0.89,Skincare,Essence
+Essence J,Brand C,Brazil,Allergy tested,statement,formulation,POS,0.39,Skincare,Essence
+Essence J,Brand C,Brazil,More hydration than leading brand,comparative/superiority,shares/sales/R&R/endorsement,Digital,0.79,Skincare,Essence
+Essence J,Brand C,Brazil,Tested on sensitive skin,comparative/superiority,ingredient,Digital,0.91,Skincare,Essence
+Essence J,Brand C,Brazil,Sustainable packaging,statement,science,PACK,0.58,Skincare,Essence
+Essence J,Brand C,Brazil,Reduces fine lines,imagery,packaging,PACK,0.86,Skincare,Essence
+Essence J,Brand C,Brazil,Sustainable packaging,comparative/superiority,science,Digital,0.93,Skincare,Essence
+Essence J,Brand C,Brazil,Oil-free formula,comparative/superiority,clinical/instrumental,POS,0.32,Skincare,Essence
+Essence J,Brand C,Brazil,More hydration than leading brand,imagery,science,POS,0.66,Skincare,Essence
+Essence J,Brand C,Brazil,Clinically proven results,statement,consumer perception,Digital,0.6,Skincare,Essence
