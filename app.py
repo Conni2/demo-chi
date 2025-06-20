@@ -85,7 +85,6 @@ else:
             range=[-0.5, 2.5]
         )
     )
-    )
     st.plotly_chart(fig, use_container_width=True)
 
     # Safe image export block
