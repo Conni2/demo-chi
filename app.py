@@ -83,6 +83,4 @@ else:
             mime="image/png"
         )
     except Exception:
-        st.info("❌ Image download is currently not supported in this environment.
-
-💡 If you're running this locally, it will work. Try installing Kaleido with `pip install -U kaleido`.")
+        st.info("❌ Image download is currently not supported in this environment.\n\n💡 If you're running this locally, it will work. Try installing Kaleido with 'pip install -U kaleido'.")
