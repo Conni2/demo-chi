@@ -72,10 +72,11 @@ else:
         hover_data=["claim_text", "touchpoint"],
         stripmode="overlay",
         labels={"x_category": "", "claim_type": ""},
-        height=700
+        height=1000  # Increase vertical space for more y-axis spreading
     )
 
-    fig.update_traces(jitter=0.6, marker=dict(size=12, opacity=0.7))
+    fig.update_traces(jitter=0.6, marker=dict(size=14, opacity=0.7))
+fig.update_layout(yaxis=dict(tickmode='array', tickvals=['statement', 'imagery', 'comparative/superiority'], tickangle=0, tickfont=dict(size=14)))
     st.plotly_chart(fig, use_container_width=True)
 
     # Safe image export block
