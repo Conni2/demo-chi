@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 from PIL import Image
 import os
+import plotly.io as pio
 
 # Load dataset
 df = pd.read_csv("claims_dataset.csv")
@@ -10,8 +11,9 @@ df = pd.read_csv("claims_dataset.csv")
 st.set_page_config(page_title="Cosmetic Claim Mapping", layout="wide")
 st.title("🧴 Cosmetic Claim Mapping Dashboard")
 
-# Define menu
-menu = st.radio("Select View", ["Product Mapping", "Competitor Claim Map"])
+# Sidebar View Selector
+st.sidebar.header("Navigation")
+menu = st.sidebar.radio("Select View", ["Product Mapping", "Competitor Claim Map"])
 
 if menu == "Product Mapping":
     st.header("📌 Product Claim Mapping")
@@ -71,11 +73,16 @@ else:
 
     st.plotly_chart(fig, use_container_width=True)
 
-    # Export to image button
-    img_bytes = fig.to_image(format="png", width=1280, height=720, scale=2)
-    st.download_button(
-        label="📥 Download 16:9 Graph Image",
-        data=img_bytes,
-        file_name="claim_map.png",
-        mime="image/png"
-    )
+    # Safe image export block
+    try:
+        img_bytes = fig.to_image(format="png", width=1280, height=720, scale=2)
+        st.download_button(
+            label="📥 Download 16:9 Graph Image",
+            data=img_bytes,
+            file_name="claim_map.png",
+            mime="image/png"
+        )
+    except Exception:
+        st.info("❌ Image download is currently not supported in this environment.
+
+💡 If you're running this locally, it will work. Try installing Kaleido with `pip install -U kaleido`.")
