@@ -50,6 +50,16 @@ else:
     # Filter dataframe
     filtered_df = df[(df["country"] == selected_country) & 
                      (df["product_name"].isin(selected_products)) & 
+                     (df["touchpoint"].isin(selected_touchpoints))].copy()
+
+    # Map claim_type to numeric for continuous y-axis look
+    claim_type_map = {
+        "statement": 0,
+        "imagery": 1,
+        "comparative/superiority": 2
+    }
+    filtered_df["claim_type_numeric"] = filtered_df["claim_type"].map(claim_type_map) == selected_country) & 
+                     (df["product_name"].isin(selected_products)) & 
                      (df["touchpoint"].isin(selected_touchpoints))]
 
     # Define custom x-axis category order matching the image reference
@@ -66,20 +76,22 @@ else:
     fig = px.strip(
         filtered_df,
         x="x_category",
-        y="claim_type",
+        y="claim_type_numeric",
         category_orders={"x_category": x_category_order},
         color="product_name",
-        hover_data=["claim_text", "touchpoint"],
+        hover_data=["claim_text", "touchpoint", "claim_type"],
         stripmode="overlay",
-        labels={"x_category": "", "claim_type": ""},
-        height=1000
+        labels={"x_category": "", "claim_type_numeric": ""},
+        height=1000,
+        jitter=1.0
     )
 
-    fig.update_traces(jitter=0.6, marker=dict(size=16, opacity=0.75))
+    fig.update_traces(marker=dict(size=16, opacity=0.75))
     fig.update_layout(
         yaxis=dict(
             tickmode='array',
-            tickvals=['statement', 'imagery', 'comparative/superiority'],
+            tickvals=[0, 1, 2],
+            ticktext=['statement', 'imagery', 'comparative/superiority'],
             tickangle=0,
             tickfont=dict(size=16),
             range=[-0.5, 2.5]
