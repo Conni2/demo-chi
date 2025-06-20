@@ -75,17 +75,16 @@ else:
         height=1000
     )
 
-        fig.update_traces(jitter=0.6, marker=dict(size=16, opacity=0.75))
+    fig.update_traces(jitter=0.6, marker=dict(size=16, opacity=0.75))
     fig.update_layout(
         yaxis=dict(
             tickmode='array',
             tickvals=['statement', 'imagery', 'comparative/superiority'],
             tickangle=0,
             tickfont=dict(size=16),
-            range=[-0.5, 2.5]  # Add more vertical space
+            range=[-0.5, 2.5]
         )
     )
-        )
     )
     st.plotly_chart(fig, use_container_width=True)
 
