@@ -4,6 +4,7 @@ import plotly.express as px
 from PIL import Image
 import os
 import plotly.io as pio
+import numpy as np
 
 # Load dataset
 df = pd.read_csv("claims_dataset.csv")
@@ -25,7 +26,8 @@ if menu == "Product Mapping":
     with col2:
         selected_brand = st.selectbox("Select Brand", sorted(df[df["country"] == selected_country]["brand"].unique()))
     with col3:
-        selected_product = st.selectbox("Select Product", sorted(df[(df["country"] == selected_country) & (df["brand"] == selected_brand)]["product_name"].unique()))
+        selected_product = st.selectbox("Select Product", sorted(
+            df[(df["country"] == selected_country) & (df["brand"] == selected_brand)]["product_name"].unique()))
 
     # Compose image path
     image_filename = f"images/{selected_country}_{selected_brand}_{selected_product}.png"
@@ -43,50 +45,51 @@ else:
     with col1:
         selected_country = st.selectbox("Select Country", sorted(df["country"].unique()))
     with col2:
-        selected_products = st.multiselect("Select Products", sorted(df[df["country"] == selected_country]["product_name"].unique()))
+        selected_products = st.multiselect("Select Products", sorted(
+            df[df["country"] == selected_country]["product_name"].unique()))
     with col3:
-        selected_touchpoints = st.multiselect("Select Touchpoints", sorted(df["touchpoint"].unique()), default=sorted(df["touchpoint"].unique()))
+        selected_touchpoints = st.multiselect("Select Touchpoints",
+            sorted(df["touchpoint"].unique()),
+            default=sorted(df["touchpoint"].unique()))
 
     # Filter dataframe
-    filtered_df = df[(df["country"] == selected_country) & 
-                     (df["product_name"].isin(selected_products)) & 
+    filtered_df = df[(df["country"] == selected_country) &
+                     (df["product_name"].isin(selected_products)) &
                      (df["touchpoint"].isin(selected_touchpoints))].copy()
 
-    # Map claim_type to numeric for continuous y-axis look
+    # Map claim_type to numeric and add noise for dispersion
     claim_type_map = {
         "statement": 0,
         "imagery": 1,
         "comparative/superiority": 2
     }
-    filtered_df["claim_type_numeric"] = filtered_df["claim_type"].map(claim_type_map) == selected_country) & 
-                     (df["product_name"].isin(selected_products)) & 
-                     (df["touchpoint"].isin(selected_touchpoints))]
+    filtered_df["claim_type_numeric"] = filtered_df["claim_type"].map(claim_type_map) + \
+        np.random.uniform(-0.2, 0.2, size=len(filtered_df))
 
     # Define custom x-axis category order matching the image reference
     x_category_order = [
-    "science/formulation/ingredient/packaging",
-    "emotion",
-    "sensory",
-    "consumer perception",
-    "clinical/instrumental",
-    "local relevance/safety/sustainability",
-    "shares/sales/R&R/endorsement"
-]
+        "science/formulation/ingredient/packaging",
+        "emotion",
+        "sensory",
+        "consumer perception",
+        "clinical/instrumental",
+        "local relevance/safety/sustainability",
+        "shares/sales/R&R/endorsement"
+    ]
 
-    fig = px.strip(
+    # Scatter plot for better vertical dispersion
+    fig = px.scatter(
         filtered_df,
         x="x_category",
         y="claim_type_numeric",
         category_orders={"x_category": x_category_order},
         color="product_name",
+        size="relevancy",
         hover_data=["claim_text", "touchpoint", "claim_type"],
-        stripmode="overlay",
         labels={"x_category": "", "claim_type_numeric": ""},
-        height=1000,
-        jitter=1.0
+        height=1000
     )
 
-    fig.update_traces(marker=dict(size=16, opacity=0.75))
     fig.update_layout(
         yaxis=dict(
             tickmode='array',
@@ -97,6 +100,7 @@ else:
             range=[-0.5, 2.5]
         )
     )
+
     st.plotly_chart(fig, use_container_width=True)
 
     # Safe image export block
@@ -109,4 +113,6 @@ else:
             mime="image/png"
         )
     except Exception:
-        st.info("❌ Image download is currently not supported in this environment. If you're running this locally, it will work. Try installing Kaleido with \"pip install -U kaleido\".")
+        st.info("❌ Image download is currently not supported in this environment. "
+                "If you're running this locally, it will work. Try installing Kaleido with "
+                "\"pip install -U kaleido\".")
