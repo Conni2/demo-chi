@@ -5,6 +5,8 @@ from PIL import Image
 import os
 import plotly.io as pio
 import numpy as np
+import itertools
+from plotly.colors import qualitative
 
 # Load dataset
 df = pd.read_csv("claims_dataset.csv")
@@ -77,13 +79,19 @@ else:
         "shares/sales/R&R/endorsement"
     ]
 
-    # Scatter plot for better vertical dispersion
+    # Generate dynamic color palette for selected products
+    color_pool = qualitative.Dark24 + qualitative.Bold + qualitative.Prism
+    unique_products = sorted(filtered_df["product_name"].unique())
+    color_discrete_map = {product: color for product, color in zip(unique_products, itertools.cycle(color_pool))}
+
+    # Scatter plot
     fig = px.scatter(
         filtered_df,
         x="x_category",
         y="claim_type_numeric",
         category_orders={"x_category": x_category_order},
         color="product_name",
+        color_discrete_map=color_discrete_map,
         size="relevancy",
         hover_data=["claim_text", "touchpoint", "claim_type"],
         labels={"x_category": "", "claim_type_numeric": ""},
